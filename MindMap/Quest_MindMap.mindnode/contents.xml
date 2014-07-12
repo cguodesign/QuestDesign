@@ -18,11 +18,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>45FD09E3-67BB-4197-ABB1-9B90CB42E9F4</string>
+				<string>22A57C12-F131-48B9-A175-59BC457CC90F</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>BAD0E932-AE28-4C0B-B0AF-3227E9F2C4AD</string>
+				<string>470342F4-EB5B-49D5-B3D1-C14E742AC0A3</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -36,11 +36,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>45FD09E3-67BB-4197-ABB1-9B90CB42E9F4</string>
+				<string>22A57C12-F131-48B9-A175-59BC457CC90F</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>CBCCAD21-89E5-4978-A4B8-E3DFC9CAC9E9</string>
+				<string>8BCEC4EC-3CF2-41BB-9665-249E7C0D84E9</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -54,11 +54,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>6BFB1C87-3468-4C54-B844-36CF988E5AFC</string>
+				<string>4939E43F-5239-4920-AB61-A22B834311F2</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>01744269-2D84-40D0-B456-C4DE63B608CC</string>
+				<string>CA225712-8E3F-44B3-91CB-6C048BC3FA50</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -72,11 +72,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>01744269-2D84-40D0-B456-C4DE63B608CC</string>
+				<string>CA225712-8E3F-44B3-91CB-6C048BC3FA50</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>291FA740-D459-49D5-8673-1015C7C1E8C5</string>
+				<string>918FF0F6-1D7D-4F10-8590-4154D9891055</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -90,11 +90,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>1A133B86-F8B4-477A-9678-110AD4AE874C</string>
+				<string>DDDE16A3-4979-4108-A9BB-644D5722E7C5</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>FE729432-F0CB-408A-899C-C31BED6A326F</string>
+				<string>78387B60-FD1D-4BC9-9489-16FC00C9A75F</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -108,11 +108,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>6BFB1C87-3468-4C54-B844-36CF988E5AFC</string>
+				<string>4939E43F-5239-4920-AB61-A22B834311F2</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>11E746B0-4549-45CD-9154-B830A5CBBD7B</string>
+				<string>74B862B0-74B2-4AAF-AEC1-3A0591EFB8F8</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -126,11 +126,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>D74DCC88-EC3F-4627-9C06-D2F8E005B712</string>
+				<string>ED1D8DFA-5E8B-4B51-A298-EC500C44F6CD</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>5F42B5FA-E125-490B-B884-E9A73598D9D9</string>
+				<string>2BCF19BF-097B-4F4D-9656-8F1B88A93B51</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -144,11 +144,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>1A133B86-F8B4-477A-9678-110AD4AE874C</string>
+				<string>DDDE16A3-4979-4108-A9BB-644D5722E7C5</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>0C31FF9E-4765-4DBC-BE19-E7BE665734E9</string>
+				<string>8086E33B-7C2A-4573-B983-998CF588296A</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -162,11 +162,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>40A78AF4-C665-48F6-8450-7334CE0846B1</string>
+				<string>24A179C8-EEAD-40D0-A9CB-4F4CBA86AFAD</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>0EC775B4-BEC0-4EE9-8FCB-C8F226548378</string>
+				<string>124307F2-4985-437A-90D3-F8354AD2C8D7</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -180,11 +180,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>D74DCC88-EC3F-4627-9C06-D2F8E005B712</string>
+				<string>ED1D8DFA-5E8B-4B51-A298-EC500C44F6CD</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>89DE4884-A40E-4A43-94E5-2A63F5F7E067</string>
+				<string>7D5CECAA-CCEA-49FC-9FEB-953B2D52A7FC</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -198,11 +198,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>40A78AF4-C665-48F6-8450-7334CE0846B1</string>
+				<string>24A179C8-EEAD-40D0-A9CB-4F4CBA86AFAD</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>AFF40FDA-16CA-4C45-8C88-4BFE6F815A8D</string>
+				<string>BF3DFEF8-D241-4591-B472-49424ADED3E5</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -216,11 +216,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>1E661321-C405-4C2B-8ECD-423253DB95DF</string>
+				<string>2FACE71C-30E3-43C4-8D86-C3D2E91443B7</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F01525AE-29E3-4790-B53F-C239DA5780BA</string>
+				<string>279EEE1C-81FC-4EC4-AFAB-6722269E5FB3</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -234,11 +234,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>387887B0-9C8A-4A13-B89D-38A8D995BEF6</string>
+				<string>022CFE9C-323F-4F04-A03D-F309933367B3</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F01525AE-29E3-4790-B53F-C239DA5780BA</string>
+				<string>279EEE1C-81FC-4EC4-AFAB-6722269E5FB3</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -252,11 +252,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>634FD590-D4BA-4840-8F13-73D55246AA70</string>
+				<string>EAF53187-9DFF-46C7-A162-340EAE649F44</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F01525AE-29E3-4790-B53F-C239DA5780BA</string>
+				<string>279EEE1C-81FC-4EC4-AFAB-6722269E5FB3</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -270,11 +270,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>A9A11042-8174-4762-9284-7183851561AE</string>
+				<string>E76E8D63-7B40-4A16-935A-C5CD58E7FAF4</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>77B4E8D4-AFE7-4A8D-927C-EBA3655D9F3E</string>
+				<string>6896EF2D-F759-4709-82BD-64B6CF95292E</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -288,11 +288,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>6BFB1C87-3468-4C54-B844-36CF988E5AFC</string>
+				<string>4939E43F-5239-4920-AB61-A22B834311F2</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>83C4DD43-0A45-4B5D-A80C-B1827D62D7D1</string>
+				<string>B4028068-7A37-4C67-B82D-1EBD0C164C07</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -306,11 +306,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>40A78AF4-C665-48F6-8450-7334CE0846B1</string>
+				<string>24A179C8-EEAD-40D0-A9CB-4F4CBA86AFAD</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>4935C03D-A492-442D-901B-676DDD957D0F</string>
+				<string>6439CDD2-48CF-4D3A-B77E-23820ABE3C0E</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -324,11 +324,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>40A78AF4-C665-48F6-8450-7334CE0846B1</string>
+				<string>24A179C8-EEAD-40D0-A9CB-4F4CBA86AFAD</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>17CBCF51-1157-427A-9D0D-D69BF7FF6004</string>
+				<string>FA2B25D2-D836-4ADE-A22C-4FD327658B6D</string>
 				<key>strokeColor</key>
 				<string>{0.000, 0.500, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -337,6 +337,24 @@
 				<real>1</real>
 				<key>wayPointOffset</key>
 				<string>{205.738, -147.367}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>276F6D56-6A11-41B5-B3F4-183A3565C24F</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>85121044-381E-4D5F-9F50-D18DDDE3FA84</string>
+				<key>strokeColor</key>
+				<string>{0.000, 0.500, 1.000, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>wayPointOffset</key>
+				<string>{119.768, 0.910816}</string>
 			</dict>
 		</array>
 		<key>color</key>
@@ -357,7 +375,7 @@
 				<key>location</key>
 				<string>{-670.83968877763436, -167.73264512318292}</string>
 				<key>nodeID</key>
-				<string>5DBB34FE-0FBC-4CDD-9370-2C730790BC31</string>
+				<string>E21F19BD-BDCB-4C2B-A727-07D839CB4743</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -380,7 +398,7 @@
 						<key>location</key>
 						<string>{-489.17562627763436, -266.52170762318292}</string>
 						<key>nodeID</key>
-						<string>B2F5F189-401E-4DB7-ABE4-F3995499C6D7</string>
+						<string>D2C48432-8E8B-405B-B00A-3458C8B6D144</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -403,7 +421,7 @@
 								<key>location</key>
 								<string>{-350.74012080215061, -450.1789341987805}</string>
 								<key>nodeID</key>
-								<string>45FD09E3-67BB-4197-ABB1-9B90CB42E9F4</string>
+								<string>22A57C12-F131-48B9-A175-59BC457CC90F</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -426,7 +444,7 @@
 										<key>location</key>
 										<string>{-218.74012080215061, -450.1789341987805}</string>
 										<key>nodeID</key>
-										<string>C2AFCC24-BA45-477B-BDEF-530EE6624774</string>
+										<string>9F419208-F06D-4A6C-94D5-4DC8843C0EA4</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.800, 0.400, 1.000}</string>
 										<key>strokeStyle</key>
@@ -697,7 +715,7 @@
 										<key>location</key>
 										<string>{-218.74012080215061, -405.51226816789671}</string>
 										<key>nodeID</key>
-										<string>075944E7-A507-4E1F-97F0-08ECA161D224</string>
+										<string>F0C01C67-0300-4F03-9B4E-A59683656578</string>
 										<key>strokeColor</key>
 										<string>{1.000, 0.800, 0.400, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1217,7 +1235,7 @@
 								<key>location</key>
 								<string>{-355.21013296610295, -379.56945799056155}</string>
 								<key>nodeID</key>
-								<string>871517C7-2905-43FE-A0F7-1F1445DE3AE3</string>
+								<string>7C90E9E1-9E0D-45D4-B24F-E848CCDF1DE1</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1489,7 +1507,7 @@
 								<key>location</key>
 								<string>{-348.57024560842376, -324.62181452300092}</string>
 								<key>nodeID</key>
-								<string>291FA740-D459-49D5-8673-1015C7C1E8C5</string>
+								<string>918FF0F6-1D7D-4F10-8590-4154D9891055</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1917,7 +1935,7 @@
 						<key>location</key>
 						<string>{-521.98422002763436, -78.42795762318292}</string>
 						<key>nodeID</key>
-						<string>1A133B86-F8B4-477A-9678-110AD4AE874C</string>
+						<string>DDDE16A3-4979-4108-A9BB-644D5722E7C5</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1940,7 +1958,7 @@
 								<key>location</key>
 								<string>{-409.98422002763448, -78.42795762318292}</string>
 								<key>nodeID</key>
-								<string>626DB8AF-382D-46F5-A091-920DEEE04C37</string>
+								<string>CA53AAEE-D134-4DC1-8D7F-4D7B7A95A2C6</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2211,7 +2229,7 @@
 								<key>location</key>
 								<string>{-409.98422002763448, -25.42795762318292}</string>
 								<key>nodeID</key>
-								<string>E135B2B2-6C6A-4647-B91F-A300E8D1B109</string>
+								<string>C0E21818-A0D8-4FD6-93A2-33FFCF09F6EA</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2482,7 +2500,7 @@
 								<key>location</key>
 								<string>{-410.48190165013381, 27.57204237681708}</string>
 								<key>nodeID</key>
-								<string>7936D767-86A2-4998-A496-FE13D77B4E9C</string>
+								<string>CC81D48A-FD4C-4109-9CD5-500B1F144A4B</string>
 								<key>strokeColor</key>
 								<string>{0.800, 1.000, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2979,7 +2997,7 @@
 				<key>location</key>
 				<string>{-176.45689216865014, -50.418004628764038}</string>
 				<key>nodeID</key>
-				<string>6BFB1C87-3468-4C54-B844-36CF988E5AFC</string>
+				<string>4939E43F-5239-4920-AB61-A22B834311F2</string>
 				<key>strokeColor</key>
 				<string>{1.000, 0.800, 0.400, 1.000}</string>
 				<key>strokeStyle</key>
@@ -3002,7 +3020,7 @@
 						<key>location</key>
 						<string>{-27.076962304866242, -5.0231611844843655}</string>
 						<key>nodeID</key>
-						<string>535DBF22-7B31-4CBE-B1BA-879F927B9EA9</string>
+						<string>2133349F-13CB-406C-A1C3-BC7E31925E83</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -3025,7 +3043,7 @@
 								<key>location</key>
 								<string>{116.92303769513376, -5.0231611844843655}</string>
 								<key>nodeID</key>
-								<string>D1193173-32AB-4DBD-BD58-9A2FBF02D9FC</string>
+								<string>5668606C-C91F-4120-A57B-5C76B968E8D1</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3296,7 +3314,7 @@
 								<key>location</key>
 								<string>{121.67927671533278, 51.594832600111545}</string>
 								<key>nodeID</key>
-								<string>BCFAF7DF-5858-481E-A802-0260D243E2F2</string>
+								<string>B042C488-B1D3-4674-99C2-AE9E1559BD5C</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3567,7 +3585,7 @@
 								<key>location</key>
 								<string>{117.4288128087793, 22.404674910693757}</string>
 								<key>nodeID</key>
-								<string>8F9A5C88-72B2-4D22-A7EB-11177BE0A3AD</string>
+								<string>5F21B815-4407-4645-86E1-5401EED1A864</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3838,7 +3856,7 @@
 								<key>location</key>
 								<string>{115.4119224737766, -32.033489865815682}</string>
 								<key>nodeID</key>
-								<string>4935C03D-A492-442D-901B-676DDD957D0F</string>
+								<string>6439CDD2-48CF-4D3A-B77E-23820ABE3C0E</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -4267,7 +4285,7 @@
 						<key>location</key>
 						<string>{-24.82484166704819, 23.494406890991854}</string>
 						<key>nodeID</key>
-						<string>427F4C64-416C-4599-ACBC-C9A7EDB8BFB8</string>
+						<string>7D48709A-225E-4302-90B2-9D5FD8EB92C7</string>
 						<key>strokeColor</key>
 						<string>{0.400, 1.000, 0.800, 1.000}</string>
 						<key>strokeStyle</key>
@@ -4446,7 +4464,7 @@
 						<key>location</key>
 						<string>{-12.451522394045355, 51.966030135070355}</string>
 						<key>nodeID</key>
-						<string>45185F38-5B04-497C-8CEC-8BEA15E09A0E</string>
+						<string>C8E936EA-3FD7-46AC-A0D5-AEC2625F89E7</string>
 						<key>strokeColor</key>
 						<string>{0.400, 0.800, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -4625,7 +4643,7 @@
 						<key>location</key>
 						<string>{-229.27063038102608, 38.211588056657774}</string>
 						<key>nodeID</key>
-						<string>A8245F08-F5B4-43F3-B1B9-E7890DD9064C</string>
+						<string>E5B2878B-20E1-4A2A-965D-C446D8FCF982</string>
 						<key>strokeColor</key>
 						<string>{0.400, 0.800, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -4804,7 +4822,7 @@
 						<key>location</key>
 						<string>{-231.06765228927236, 75.640469692037868}</string>
 						<key>nodeID</key>
-						<string>112A4716-C2AC-46E4-BA3E-55268E8262BE</string>
+						<string>9ACA3B84-0EF9-462C-9B74-597FC061EC57</string>
 						<key>strokeColor</key>
 						<string>{0.800, 0.400, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -4983,7 +5001,7 @@
 						<key>location</key>
 						<string>{-2.0591263550496706, 81.007541256169816}</string>
 						<key>nodeID</key>
-						<string>F0C06CCD-A298-4398-AC71-94B1DA7DFD7C</string>
+						<string>72E1DC0C-644C-4F37-81BC-AC478F29E477</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.900, 0.500, 1.000}</string>
 						<key>strokeStyle</key>
@@ -5163,7 +5181,7 @@
 						<key>location</key>
 						<string>{-16.669312676669165, -33.442713415312824}</string>
 						<key>nodeID</key>
-						<string>17CBCF51-1157-427A-9D0D-D69BF7FF6004</string>
+						<string>FA2B25D2-D836-4ADE-A22C-4FD327658B6D</string>
 						<key>strokeColor</key>
 						<string>{0.900, 0.700, 0.300, 1.000}</string>
 						<key>strokeStyle</key>
@@ -5439,7 +5457,7 @@
 				<key>location</key>
 				<string>{-281.5568748037806, -247.44162052412622}</string>
 				<key>nodeID</key>
-				<string>01744269-2D84-40D0-B456-C4DE63B608CC</string>
+				<string>CA225712-8E3F-44B3-91CB-6C048BC3FA50</string>
 				<key>strokeColor</key>
 				<string>{1.000, 0.800, 0.400, 1.000}</string>
 				<key>strokeStyle</key>
@@ -5462,7 +5480,7 @@
 						<key>location</key>
 						<string>{-115.58610463374612, -265.73117680156383}</string>
 						<key>nodeID</key>
-						<string>5653D3D7-6446-453A-BEB1-71B4B1DC57DF</string>
+						<string>D49D7C31-F8ED-44C8-9D78-A8232B190084</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -5485,7 +5503,7 @@
 								<key>location</key>
 								<string>{-4.9833778196785943, -315.80734910755348}</string>
 								<key>nodeID</key>
-								<string>6A1B59A1-DB54-4672-8B4B-FB7FC7601903</string>
+								<string>DC4F348F-19D4-4EF8-B95E-B768A299FAE6</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -5756,7 +5774,7 @@
 								<key>location</key>
 								<string>{-2.4731765015317251, -285.97024242525993}</string>
 								<key>nodeID</key>
-								<string>6E6B1492-5C58-4F45-9727-C2D3C654E2D2</string>
+								<string>6B956B47-E7FE-4857-A458-F2EF66F1BB6E</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6027,7 +6045,7 @@
 								<key>location</key>
 								<string>{-1.2618674936229581, -257.36794350095965}</string>
 								<key>nodeID</key>
-								<string>833625AF-3490-4F12-BF0D-F04FE071E9D1</string>
+								<string>BB9DCF63-6246-4DF9-B788-142C27058432</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6299,7 +6317,7 @@
 								<key>location</key>
 								<string>{-10.017820378355054, -234.2104801677292}</string>
 								<key>nodeID</key>
-								<string>77B4E8D4-AFE7-4A8D-927C-EBA3655D9F3E</string>
+								<string>6896EF2D-F759-4709-82BD-64B6CF95292E</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6573,7 +6591,7 @@
 								<key>location</key>
 								<string>{-18.627381261610935, -339.3955007830773}</string>
 								<key>nodeID</key>
-								<string>83C4DD43-0A45-4B5D-A80C-B1827D62D7D1</string>
+								<string>B4028068-7A37-4C67-B82D-1EBD0C164C07</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -6847,7 +6865,7 @@
 								<key>location</key>
 								<string>{-33.586939504965358, -362.81893396539454}</string>
 								<key>nodeID</key>
-								<string>C0114956-5550-421F-95BC-346E595935DE</string>
+								<string>6B684998-6A8A-47B2-9EDD-2B6A1E4EF247</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -7276,7 +7294,7 @@
 						<key>location</key>
 						<string>{-114.46776648055959, -173.07357945548546}</string>
 						<key>nodeID</key>
-						<string>A9A11042-8174-4762-9284-7183851561AE</string>
+						<string>E76E8D63-7B40-4A16-935A-C5CD58E7FAF4</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -7299,7 +7317,7 @@
 								<key>location</key>
 								<string>{14.769351743444645, -153.52043234570846}</string>
 								<key>nodeID</key>
-								<string>3AF5329D-1401-46B8-B74F-C44B2C2B60EE</string>
+								<string>F9925883-A0A1-48AB-BB41-0167311C9A3A</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -7571,7 +7589,7 @@
 								<key>location</key>
 								<string>{14.024069311359995, -179.39541261316543}</string>
 								<key>nodeID</key>
-								<string>B93638C7-5B91-4527-A289-B24734ED07FE</string>
+								<string>454DC5A5-031E-417E-BA7E-4064FBA8E011</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -8001,7 +8019,7 @@
 						<key>location</key>
 						<string>{-104.99346143679111, -337.18759775737533}</string>
 						<key>nodeID</key>
-						<string>BAD0E932-AE28-4C0B-B0AF-3227E9F2C4AD</string>
+						<string>470342F4-EB5B-49D5-B3D1-C14E742AC0A3</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -8180,7 +8198,7 @@
 						<key>location</key>
 						<string>{-393.5568748037806, -204.92563471545941}</string>
 						<key>nodeID</key>
-						<string>FE729432-F0CB-408A-899C-C31BED6A326F</string>
+						<string>78387B60-FD1D-4BC9-9489-16FC00C9A75F</string>
 						<key>strokeColor</key>
 						<string>{0.700, 0.900, 0.300, 1.000}</string>
 						<key>strokeStyle</key>
@@ -8359,7 +8377,7 @@
 						<key>location</key>
 						<string>{-113.64188516485831, -222.90532079973173}</string>
 						<key>nodeID</key>
-						<string>8919386D-32E1-40E8-A074-736C4099F6F7</string>
+						<string>4A4E5620-A04B-41B8-A02F-970AFAC4788D</string>
 						<key>strokeColor</key>
 						<string>{0.800, 0.400, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -8635,7 +8653,7 @@
 				<key>location</key>
 				<string>{232.3223505339389, -398.80814042180833}</string>
 				<key>nodeID</key>
-				<string>40A78AF4-C665-48F6-8450-7334CE0846B1</string>
+				<string>24A179C8-EEAD-40D0-A9CB-4F4CBA86AFAD</string>
 				<key>strokeColor</key>
 				<string>{1.000, 0.800, 0.400, 1.000}</string>
 				<key>strokeStyle</key>
@@ -8658,7 +8676,7 @@
 						<key>location</key>
 						<string>{402.00873619143022, -301.41380695749689}</string>
 						<key>nodeID</key>
-						<string>5F42B5FA-E125-490B-B884-E9A73598D9D9</string>
+						<string>2BCF19BF-097B-4F4D-9656-8F1B88A93B51</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -8681,7 +8699,7 @@
 								<key>location</key>
 								<string>{580.6153569585033, -568.42146106571784}</string>
 								<key>nodeID</key>
-								<string>DA28CCC0-D9D0-4061-9B98-B79A598A4116</string>
+								<string>F89AF87A-3132-4BAD-9BF4-95BA9EC4F7D5</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -8925,7 +8943,7 @@
 								<key>location</key>
 								<string>{580.6153569585033, -515.42146106571784}</string>
 								<key>nodeID</key>
-								<string>ED422A9F-C0A5-41FD-BAF3-5A7F4DEA57A6</string>
+								<string>743E4910-BF13-4602-A770-0400E9C54315</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -9169,7 +9187,7 @@
 								<key>location</key>
 								<string>{580.6153569585033, -462.42146106571778}</string>
 								<key>nodeID</key>
-								<string>A652B38C-51B7-44B5-B496-6F7BBF2863D1</string>
+								<string>FE88EE61-9B59-4801-8F20-3EF0B3EC5068</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -9413,7 +9431,7 @@
 								<key>location</key>
 								<string>{578.44584138536129, -669.36598530245055}</string>
 								<key>nodeID</key>
-								<string>57D65893-3C6C-483C-AFA0-65A17506E0C1</string>
+								<string>BF12FF64-ED5D-4A78-996F-1FF018DA3DC2</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -9657,7 +9675,7 @@
 								<key>location</key>
 								<string>{578.44584138536129, -616.36598530245044}</string>
 								<key>nodeID</key>
-								<string>E0844192-11FF-4476-B732-E8FF0813683F</string>
+								<string>F7815862-082E-4335-A34B-0C5DFAF971A6</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.800, 0.400, 1.000}</string>
 								<key>strokeStyle</key>
@@ -9901,7 +9919,7 @@
 								<key>location</key>
 								<string>{580.6153569585033, -409.42146106571778}</string>
 								<key>nodeID</key>
-								<string>32A173FC-B809-4113-9B35-F7DE5F3432BE</string>
+								<string>3D0376B3-A867-47FC-8B2B-B6B68EF5F30A</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -10145,7 +10163,7 @@
 								<key>location</key>
 								<string>{580.6153569585033, -356.42146106571778}</string>
 								<key>nodeID</key>
-								<string>761B7D9D-4236-487B-89D8-CF99CC2AA767</string>
+								<string>342A076C-EDA8-4D78-A0F1-71D120D1539C</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -10389,7 +10407,7 @@
 								<key>location</key>
 								<string>{580.6153569585033, -303.42146106571778}</string>
 								<key>nodeID</key>
-								<string>CA90FE5E-A9F8-453F-A436-8E1CCA030680</string>
+								<string>3390D429-AFA8-4AD2-87A5-C26B3B064C0B</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -10633,7 +10651,7 @@
 								<key>location</key>
 								<string>{539.40572132080592, -261.28501956582619}</string>
 								<key>nodeID</key>
-								<string>11E746B0-4549-45CD-9154-B830A5CBBD7B</string>
+								<string>74B862B0-74B2-4AAF-AEC1-3A0591EFB8F8</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -10878,7 +10896,7 @@
 								<key>location</key>
 								<string>{579.98682553467347, -539.91588833419314}</string>
 								<key>nodeID</key>
-								<string>6938544F-6439-4E5B-84AF-32711497C661</string>
+								<string>20DC21E6-F5CE-4C52-AC32-82962E912EB5</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -11231,7 +11249,7 @@
 								<key>location</key>
 								<string>{579.87625031883181, -487.84022715926801}</string>
 								<key>nodeID</key>
-								<string>D861CB31-EDA6-4228-B79D-FD6BA845EEC3</string>
+								<string>FEA6D80A-2A15-4AAE-9650-76667B315AB7</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -11584,7 +11602,7 @@
 								<key>location</key>
 								<string>{558.98806549770643, -226.05603639751229}</string>
 								<key>nodeID</key>
-								<string>89DE4884-A40E-4A43-94E5-2A63F5F7E067</string>
+								<string>7D5CECAA-CCEA-49FC-9FEB-953B2D52A7FC</string>
 								<key>strokeColor</key>
 								<string>{0.800, 0.400, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -12078,7 +12096,7 @@
 						<key>location</key>
 						<string>{402.0793462437623, -493.75828570073355}</string>
 						<key>nodeID</key>
-						<string>5008361F-151A-4D09-8991-3B608D783041</string>
+						<string>9A1DA36A-B134-4E0C-8F4C-FAD9C43CFD89</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -12241,7 +12259,7 @@
 						<key>location</key>
 						<string>{133.54925388174058, -398.19981147848193}</string>
 						<key>nodeID</key>
-						<string>CBCCAD21-89E5-4978-A4B8-E3DFC9CAC9E9</string>
+						<string>8BCEC4EC-3CF2-41BB-9665-249E7C0D84E9</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -12404,7 +12422,7 @@
 						<key>location</key>
 						<string>{361.30289647262191, -247.41493388038833}</string>
 						<key>nodeID</key>
-						<string>0C31FF9E-4765-4DBC-BE19-E7BE665734E9</string>
+						<string>8086E33B-7C2A-4573-B983-998CF588296A</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -12671,7 +12689,7 @@
 				<key>location</key>
 				<string>{345.44789713158161, -74.88272966099737}</string>
 				<key>nodeID</key>
-				<string>D74DCC88-EC3F-4627-9C06-D2F8E005B712</string>
+				<string>ED1D8DFA-5E8B-4B51-A298-EC500C44F6CD</string>
 				<key>strokeColor</key>
 				<string>{1.000, 0.800, 0.400, 1.000}</string>
 				<key>strokeStyle</key>
@@ -12694,7 +12712,7 @@
 						<key>location</key>
 						<string>{509.55385319497509, -55.20710825408139}</string>
 						<key>nodeID</key>
-						<string>6E992FD4-2EC5-4579-A0F2-807EF3A973EA</string>
+						<string>33B1AA70-CAFF-46F5-B399-703C3607F0A9</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.800, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -12874,7 +12892,7 @@
 						<key>location</key>
 						<string>{509.62099962018465, 53.981749936768892}</string>
 						<key>nodeID</key>
-						<string>E0963949-7F45-4A10-B3B1-300507FD9C33</string>
+						<string>3B6B7CA4-3CD4-44BC-B4CB-1115C3335FC5</string>
 						<key>strokeColor</key>
 						<string>{0.800, 1.000, 0.400, 1.000}</string>
 						<key>strokeStyle</key>
@@ -13141,7 +13159,7 @@
 						<key>location</key>
 						<string>{512.41340581618351, -2.109931995179295}</string>
 						<key>nodeID</key>
-						<string>1CD4E60D-94CA-452F-AC30-D1C551DBCD8A</string>
+						<string>EB2AF9E9-30F1-425A-9663-90268348EA8E</string>
 						<key>strokeColor</key>
 						<string>{0.400, 1.000, 0.800, 1.000}</string>
 						<key>strokeStyle</key>
@@ -13407,7 +13425,7 @@
 						<key>location</key>
 						<string>{506.49231195678749, -113.80762480068086}</string>
 						<key>nodeID</key>
-						<string>CDEC1235-D081-4FE5-8D93-4937B84617A0</string>
+						<string>24C86B12-FDC9-46D4-B47B-9EE458081DC8</string>
 						<key>strokeColor</key>
 						<string>{0.400, 0.800, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -13430,7 +13448,7 @@
 								<key>location</key>
 								<string>{626.49231195678749, -113.80762480068086}</string>
 								<key>nodeID</key>
-								<string>0EC775B4-BEC0-4EE9-8FCB-C8F226548378</string>
+								<string>124307F2-4985-437A-90D3-F8354AD2C8D7</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -13702,7 +13720,7 @@
 								<key>location</key>
 								<string>{626.49231195678749, -60.807624800680856}</string>
 								<key>nodeID</key>
-								<string>B3E94606-0A3C-4317-9ADF-4BF9276767AD</string>
+								<string>1D124A56-CB44-41E1-BC02-187384C7CFA5</string>
 								<key>strokeColor</key>
 								<string>{0.400, 0.800, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -14132,7 +14150,7 @@
 						<key>location</key>
 						<string>{195.83140440283228, -15.676060018716498}</string>
 						<key>nodeID</key>
-						<string>AFF40FDA-16CA-4C45-8C88-4BFE6F815A8D</string>
+						<string>BF3DFEF8-D241-4591-B472-49424ADED3E5</string>
 						<key>strokeColor</key>
 						<string>{0.800, 0.400, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -14448,7 +14466,7 @@
 				<key>location</key>
 				<string>{-663.8058741052746, 171.73541291700803}</string>
 				<key>nodeID</key>
-				<string>F01525AE-29E3-4790-B53F-C239DA5780BA</string>
+				<string>279EEE1C-81FC-4EC4-AFAB-6722269E5FB3</string>
 				<key>strokeColor</key>
 				<string>{0.500, 0.500, 0.500, 1.000}</string>
 				<key>strokeStyle</key>
@@ -14566,7 +14584,7 @@
 				<key>location</key>
 				<string>{-476.59499848280325, 122.23984011172001}</string>
 				<key>nodeID</key>
-				<string>1E661321-C405-4C2B-8ECD-423253DB95DF</string>
+				<string>2FACE71C-30E3-43C4-8D86-C3D2E91443B7</string>
 				<key>strokeColor</key>
 				<string>{0.251, 0.000, 0.502, 1.000}</string>
 				<key>strokeStyle</key>
@@ -14684,7 +14702,7 @@
 				<key>location</key>
 				<string>{-476.24747637587257, 171.96709432162857}</string>
 				<key>nodeID</key>
-				<string>387887B0-9C8A-4A13-B89D-38A8D995BEF6</string>
+				<string>022CFE9C-323F-4F04-A03D-F309933367B3</string>
 				<key>strokeColor</key>
 				<string>{0.800, 1.000, 0.400, 1.000}</string>
 				<key>strokeStyle</key>
@@ -14802,7 +14820,7 @@
 				<key>location</key>
 				<string>{-475.61035251316616, 222.80536617642156}</string>
 				<key>nodeID</key>
-				<string>634FD590-D4BA-4840-8F13-73D55246AA70</string>
+				<string>EAF53187-9DFF-46C7-A162-340EAE649F44</string>
 				<key>strokeColor</key>
 				<string>{0.400, 0.800, 1.000, 1.000}</string>
 				<key>strokeStyle</key>
@@ -14904,6 +14922,1696 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs26 \cf0 \'b0\'b4\'c5\'a5}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-7.1542455647401084, 211.89285087477037}</string>
+				<key>nodeID</key>
+				<string>276F6D56-6A11-41B5-B3F4-183A3565C24F</string>
+				<key>strokeColor</key>
+				<string>{0.500, 0.500, 0.500, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{134.84575443525989, 120.89285087477037}</string>
+						<key>nodeID</key>
+						<string>431D522E-0C8B-4615-9912-F45EE299B260</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.800, 0.400, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{246.84575443525989, 120.89285087477037}</string>
+								<key>nodeID</key>
+								<string>3ECDF685-9F7E-48E5-A8C9-D0B1BF4F43F4</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.800, 0.400, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>attributedText</key>
+									<data>
+								YnBsaXN0MDDU
+								AQIDBAUG5OVY
+								JHZlcnNpb25Y
+								JG9iamVjdHNZ
+								JGFyY2hpdmVy
+								VCR0b3ASAAGG
+								oK8QLQcIDxAX
+								ICEiIycxODxA
+								SElndn1+goeM
+								kZaboKWqr7S5
+								vL2+wsrL19jZ
+								2tvc4FUkbnVs
+								bNMJCgsMDQ5W
+								c3RyaW5nWmF0
+								dHJpYnV0ZXNW
+								JGNsYXNzgAKA
+								A4AsZpiETzBS
+								MI++ZfaV9NIR
+								CxIWWk5TLm9i
+								amVjdHOjExQV
+								gASADYAjgB/T
+								GBELGRwfV05T
+								LmtleXOiGhuA
+								BYAGoh0egAeA
+								CIAMXxAka01O
+								QXR0cmlidXRl
+								ZFN0cmluZ0F0
+								dHJpYnV0ZVJh
+								bmdlS2V5XxAo
+								a01OQXR0cmli
+								dXRlZFN0cmlu
+								Z0F0dHJpYnV0
+								ZUF0dHJpYnV0
+								ZUtleVZ7MCwg
+								Nn3SJAslJlVj
+								b2xvcoAJgAvV
+								CygpKissLS4v
+								MFNyZWRVYWxw
+								aGFUYmx1ZVVn
+								cmVlboAKIgAA
+								AAAiP4AAACIA
+								AAAAIgAAAADS
+								MjM0NVokY2xh
+								c3NuYW1lWCRj
+								bGFzc2VzWE1O
+								Q0NvbG9yojY3
+								WE1OQ0NvbG9y
+								WE5TT2JqZWN0
+								0jIzOTpfEBNN
+								TkFTRm9yZWdy
+								b3VuZENvbG9y
+								ojs3XxATTU5B
+								U0ZvcmVncm91
+								bmRDb2xvctIy
+								Mz0+XxATTlNN
+								dXRhYmxlRGlj
+								dGlvbmFyeaM9
+								PzdcTlNEaWN0
+								aW9uYXJ50xgR
+								C0FEH6IaG4AF
+								gAaiRUaADoAP
+								gAxWezAsIDZ9
+								3xAPSktMTU4L
+								T1BRUlNUVVZX
+								WFlaW1xdXl9g
+								YWJjZGVmXxAR
+								bWF4aW11bUxp
+								bmVIZWlnaHRY
+								dGFiU3RvcHNf
+								EBBwYXJhZ3Jh
+								cGhTcGFjaW5n
+								WmhlYWRJbmRl
+								bnRdbGluZUJy
+								ZWFrTW9kZVts
+								aW5lU3BhY2lu
+								Z1lhbGlnbm1l
+								bnRadGFpbElu
+								ZGVudF8QEW1p
+								bmltdW1MaW5l
+								SGVpZ2h0XxAW
+								cGFyYWdyYXBo
+								U3BhY2luZ0Jl
+								Zm9yZV8QEmRl
+								ZmF1bHRUYWJJ
+								bnRlcnZhbF8Q
+								EmZpcnN0TGlu
+								ZUhlYWRJZGVu
+								dF8QFGJhc2VX
+								cml0aW5nRGly
+								ZWN0aW9uXxAS
+								bGluZUhlaWdo
+								dE11bHRpcGxl
+								IgAAAACAECIA
+								AAAAIgAAAACA
+								EoAiIgAAAACA
+								ICIAAAAAIgAA
+								AAAiAAAAACIA
+								AAAAIgAAAACA
+								ISIAAAAA0hEL
+								aBasaWprbG1u
+								b3BxcnN0gBGA
+								FIAVgBaAF4AY
+								gBmAGoAbgByA
+								HYAegB/UUHd4
+								C1x6e3xXb3B0
+								aW9uc1hsb2Nh
+								dGlvboASgAAi
+								QeAAAIATEADS
+								MjN/gFtNTkFT
+								VGV4dFRhYqKB
+								N1tNTkFTVGV4
+								dFRhYtRQd3gL
+								XHqFfIASgAAi
+								QmAAAIAT1FB3
+								eAtceop8gBKA
+								ACJCqAAAgBPU
+								UHd4C1x6j3yA
+								EoAAIkLgAACA
+								E9RQd3gLXHqU
+								fIASgAAiQwwA
+								AIAT1FB3eAtc
+								epl8gBKAACJD
+								KAAAgBPUUHd4
+								C1x6nnyAEoAA
+								IkNEAACAE9RQ
+								d3gLXHqjfIAS
+								gAAiQ2AAAIAT
+								1FB3eAtceqh8
+								gBKAACJDfAAA
+								gBPUUHd4C1x6
+								rXyAEoAAIkOM
+								AACAE9RQd3gL
+								XHqyfIASgAAi
+								Q5oAAIAT1FB3
+								eAtcerd8gBKA
+								ACJDqAAAgBPS
+								MjO6u1dOU0Fy
+								cmF5oro3EAQU
+								AAAAAAAAAAD/
+								/////////9Iy
+								M7/AXxATTU5B
+								U1BhcmFncmFw
+								aHlTdHlsZaLB
+								N18QE01OQVNQ
+								YXJhZ3JhcGh5
+								U3R5bGXTGBEL
+								w8YfohobgAWA
+								BqLHyIAkgCWA
+								DFZ7MCwgNn3W
+								zM3Oz9AL0dLT
+								1NXWVHNpemVY
+								Zm9udE5hbWVZ
+								ZXhwYW5zaW9u
+								W29ibGlxdWVu
+								ZXNzXxASYmFz
+								ZWxpbmVBZGp1
+								c3RtZW50gCeA
+								JoAqgCmAKIAr
+								XxAPU1RIZWl0
+								aVNDLUxpZ2h0
+								IkFAAAAiAAAA
+								ACIAAAAAIgAA
+								AADSMjPd3lhN
+								TkFTRm9udKLf
+								N1hNTkFTRm9u
+								dNIyM+HiXxAT
+								TU5DQXR0cmli
+								dXRlZFN0cmlu
+								Z6LjN18QE01O
+								Q0F0dHJpYnV0
+								ZWRTdHJpbmdf
+								EA9OU0tleWVk
+								QXJjaGl2ZXLR
+								5udfEBFNTkMw
+								ZGVyUm9vdE9i
+								amVjdIABAAgA
+								EQAaACMALQAy
+								ADcAZwBtAHQA
+								ewCGAI0AjwCR
+								AJMAoAClALAA
+								tAC2ALgAugC8
+								AMMAywDOANAA
+								0gDVANcA2QDb
+								AQIBLQE0ATkB
+								PwFBAUMBTgFS
+								AVgBXQFjAWUB
+								agFvAXQBeQF+
+								AYkBkgGbAZ4B
+								pwGwAbUBywHO
+								AeQB6QH/AgMC
+								EAIXAhoCHAIe
+								AiECIwIlAicC
+								LgJPAmMCbAJ/
+								AooCmAKkAq4C
+								uQLNAuYC+wMQ
+								AycDPANBA0MD
+								SANNA08DUQNW
+								A1gDXQNiA2cD
+								bANxA3MDeAN9
+								A4oDjAOOA5AD
+								kgOUA5YDmAOa
+								A5wDngOgA6ID
+								pAOtA7UDvgPA
+								A8IDxwPJA8sD
+								0APcA98D6wP0
+								A/YD+AP9A/8E
+								CAQKBAwEEQQT
+								BBwEHgQgBCUE
+								JwQwBDIENAQ5
+								BDsERARGBEgE
+								TQRPBFgEWgRc
+								BGEEYwRsBG4E
+								cAR1BHcEgASC
+								BIQEiQSLBJQE
+								lgSYBJ0EnwSo
+								BKoErASxBLME
+								vAS+BMAExQTH
+								BMwE1ATXBNkE
+								6gTvBQUFCAUe
+								BSUFKAUqBSwF
+								LwUxBTMFNQU8
+								BUkFTgVXBWEF
+								bQWCBYQFhgWI
+								BYoFjAWOBaAF
+								pQWqBa8FtAW5
+								BcIFxQXOBdMF
+								6QXsBgIGFAYX
+								BisAAAAAAAAC
+								AQAAAAAAAADo
+								AAAAAAAAAAAA
+								AAAAAAAGLQ==
+									</data>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'d4\'a4\'b9\'c0\'b5\'bd\'b4\'ef\'ca\'b1\'bc\'e4}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{250.29572793832187, 153.33944336671311}</string>
+								<key>nodeID</key>
+								<string>966CB465-299F-40C1-86BC-7B5E8827CFD0</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.800, 0.400, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>attributedText</key>
+									<data>
+								YnBsaXN0MDDU
+								AQIDBAUG5OVY
+								JHZlcnNpb25Y
+								JG9iamVjdHNZ
+								JGFyY2hpdmVy
+								VCR0b3ASAAGG
+								oK8QLQcIDxAX
+								ICEiIycxODxA
+								SElndn1+goeM
+								kZaboKWqr7S5
+								vL2+wsrL19jZ
+								2tvc4FUkbnVs
+								bNMJCgsMDQ5W
+								c3RyaW5nWmF0
+								dHJpYnV0ZXNW
+								JGNsYXNzgAKA
+								A4Asbk7YjTmL
+								913yfs9XKHaE
+								dShiN2OSlh8w
+								AWL/U/fSEQsS
+								FlpOUy5vYmpl
+								Y3RzoxMUFYAE
+								gA2AI4Af0xgR
+								CxkcH1dOUy5r
+								ZXlzohobgAWA
+								BqIdHoAHgAiA
+								DF8QJGtNTkF0
+								dHJpYnV0ZWRT
+								dHJpbmdBdHRy
+								aWJ1dGVSYW5n
+								ZUtleV8QKGtN
+								TkF0dHJpYnV0
+								ZWRTdHJpbmdB
+								dHRyaWJ1dGVB
+								dHRyaWJ1dGVL
+								ZXlXezAsIDE0
+								fdIkCyUmVWNv
+								bG9ygAmAC9UL
+								KCkqKywtLi8w
+								U3JlZFVhbHBo
+								YVRibHVlVWdy
+								ZWVugAoiAAAA
+								ACI/gAAAIgAA
+								AAAiAAAAANIy
+								MzQ1WiRjbGFz
+								c25hbWVYJGNs
+								YXNzZXNYTU5D
+								Q29sb3KiNjdY
+								TU5DQ29sb3JY
+								TlNPYmplY3TS
+								MjM5Ol8QE01O
+								QVNGb3JlZ3Jv
+								dW5kQ29sb3Ki
+								OzdfEBNNTkFT
+								Rm9yZWdyb3Vu
+								ZENvbG9y0jIz
+								PT5fEBNOU011
+								dGFibGVEaWN0
+								aW9uYXJ5oz0/
+								N1xOU0RpY3Rp
+								b25hcnnTGBEL
+								QUQfohobgAWA
+								BqJFRoAOgA+A
+								DFd7MCwgMTR9
+								3xAPSktMTU4L
+								T1BRUlNUVVZX
+								WFlaW1xdXl9g
+								YWJjZGVmXxAR
+								bWF4aW11bUxp
+								bmVIZWlnaHRY
+								dGFiU3RvcHNf
+								EBBwYXJhZ3Jh
+								cGhTcGFjaW5n
+								WmhlYWRJbmRl
+								bnRdbGluZUJy
+								ZWFrTW9kZVts
+								aW5lU3BhY2lu
+								Z1lhbGlnbm1l
+								bnRadGFpbElu
+								ZGVudF8QEW1p
+								bmltdW1MaW5l
+								SGVpZ2h0XxAW
+								cGFyYWdyYXBo
+								U3BhY2luZ0Jl
+								Zm9yZV8QEmRl
+								ZmF1bHRUYWJJ
+								bnRlcnZhbF8Q
+								EmZpcnN0TGlu
+								ZUhlYWRJZGVu
+								dF8QFGJhc2VX
+								cml0aW5nRGly
+								ZWN0aW9uXxAS
+								bGluZUhlaWdo
+								dE11bHRpcGxl
+								IgAAAACAECIA
+								AAAAIgAAAACA
+								EoAiIgAAAACA
+								ICIAAAAAIgAA
+								AAAiAAAAACIA
+								AAAAIgAAAACA
+								ISIAAAAA0hEL
+								aBasaWprbG1u
+								b3BxcnN0gBGA
+								FIAVgBaAF4AY
+								gBmAGoAbgByA
+								HYAegB/UUHd4
+								C1x6e3xXb3B0
+								aW9uc1hsb2Nh
+								dGlvboASgAAi
+								QeAAAIATEADS
+								MjN/gFtNTkFT
+								VGV4dFRhYqKB
+								N1tNTkFTVGV4
+								dFRhYtRQd3gL
+								XHqFfIASgAAi
+								QmAAAIAT1FB3
+								eAtceop8gBKA
+								ACJCqAAAgBPU
+								UHd4C1x6j3yA
+								EoAAIkLgAACA
+								E9RQd3gLXHqU
+								fIASgAAiQwwA
+								AIAT1FB3eAtc
+								epl8gBKAACJD
+								KAAAgBPUUHd4
+								C1x6nnyAEoAA
+								IkNEAACAE9RQ
+								d3gLXHqjfIAS
+								gAAiQ2AAAIAT
+								1FB3eAtceqh8
+								gBKAACJDfAAA
+								gBPUUHd4C1x6
+								rXyAEoAAIkOM
+								AACAE9RQd3gL
+								XHqyfIASgAAi
+								Q5oAAIAT1FB3
+								eAtcerd8gBKA
+								ACJDqAAAgBPS
+								MjO6u1dOU0Fy
+								cmF5oro3EAQU
+								AAAAAAAAAAD/
+								/////////9Iy
+								M7/AXxATTU5B
+								U1BhcmFncmFw
+								aHlTdHlsZaLB
+								N18QE01OQVNQ
+								YXJhZ3JhcGh5
+								U3R5bGXTGBEL
+								w8YfohobgAWA
+								BqLHyIAkgCWA
+								DFd7MCwgMTR9
+								1szNzs/QC9HS
+								09TV1lRzaXpl
+								WGZvbnROYW1l
+								WWV4cGFuc2lv
+								bltvYmxpcXVl
+								bmVzc18QEmJh
+								c2VsaW5lQWRq
+								dXN0bWVudIAn
+								gCaAKoApgCiA
+								K18QD1NUSGVp
+								dGlTQy1MaWdo
+								dCJBQAAAIgAA
+								AAAiAAAAACIA
+								AAAA0jIz3d5Y
+								TU5BU0ZvbnSi
+								3zdYTU5BU0Zv
+								bnTSMjPh4l8Q
+								E01OQ0F0dHJp
+								YnV0ZWRTdHJp
+								bmei4zdfEBNN
+								TkNBdHRyaWJ1
+								dGVkU3RyaW5n
+								XxAPTlNLZXll
+								ZEFyY2hpdmVy
+								0ebnXxARTU5D
+								MGRlclJvb3RP
+								YmplY3SAAQAI
+								ABEAGgAjAC0A
+								MgA3AGcAbQB0
+								AHsAhgCNAI8A
+								kQCTALAAtQDA
+								AMQAxgDIAMoA
+								zADTANsA3gDg
+								AOIA5QDnAOkA
+								6wESAT0BRQFK
+								AVABUgFUAV8B
+								YwFpAW4BdAF2
+								AXsBgAGFAYoB
+								jwGaAaMBrAGv
+								AbgBwQHGAdwB
+								3wH1AfoCEAIU
+								AiECKAIrAi0C
+								LwIyAjQCNgI4
+								AkACYQJ1An4C
+								kQKcAqoCtgLA
+								AssC3wL4Aw0D
+								IgM5A04DUwNV
+								A1oDXwNhA2MD
+								aANqA28DdAN5
+								A34DgwOFA4oD
+								jwOcA54DoAOi
+								A6QDpgOoA6oD
+								rAOuA7ADsgO0
+								A7YDvwPHA9AD
+								0gPUA9kD2wPd
+								A+ID7gPxA/0E
+								BgQIBAoEDwQR
+								BBoEHAQeBCME
+								JQQuBDAEMgQ3
+								BDkEQgREBEYE
+								SwRNBFYEWARa
+								BF8EYQRqBGwE
+								bgRzBHUEfgSA
+								BIIEhwSJBJIE
+								lASWBJsEnQSm
+								BKgEqgSvBLEE
+								ugS8BL4EwwTF
+								BM4E0ATSBNcE
+								2QTeBOYE6QTr
+								BPwFAQUXBRoF
+								MAU3BToFPAU+
+								BUEFQwVFBUcF
+								TwVcBWEFagV0
+								BYAFlQWXBZkF
+								mwWdBZ8FoQWz
+								BbgFvQXCBccF
+								zAXVBdgF4QXm
+								BfwF/wYVBicG
+								KgY+AAAAAAAA
+								AgEAAAAAAAAA
+								6AAAAAAAAAAA
+								AAAAAAAABkA=
+									</data>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'b8\'b6\'b7\'d1\'c7\'eb\'d2\'d1\'be\'ad\'d4\'da\'b5\'c4\'d3\'c3\'bb\'a7\'c5\'c5\'b6\'d3\'a1\'a2\'c4\'c3\'ba\'c5}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAQIDBAUG
+							5OVYJHZlcnNpb25YJG9i
+							amVjdHNZJGFyY2hpdmVy
+							VCR0b3ASAAGGoK8QLQcI
+							DxAXICEiIycxODxASEln
+							dn1+goeMkZaboKWqr7S5
+							vL2+wsrL19jZ2tvc4FUk
+							bnVsbNMJCgsMDQ5Wc3Ry
+							aW5nWmF0dHJpYnV0ZXNW
+							JGNsYXNzgAKAA4AsYmOS
+							lh/SEQsSFlpOUy5vYmpl
+							Y3RzoxMUFYAEgA2AI4Af
+							0xgRCxkcH1dOUy5rZXlz
+							ohobgAWABqIdHoAHgAiA
+							DF8QJGtNTkF0dHJpYnV0
+							ZWRTdHJpbmdBdHRyaWJ1
+							dGVSYW5nZUtleV8QKGtN
+							TkF0dHJpYnV0ZWRTdHJp
+							bmdBdHRyaWJ1dGVBdHRy
+							aWJ1dGVLZXlWezAsIDJ9
+							0iQLJSZVY29sb3KACYAL
+							1QsoKSorLC0uLzBTcmVk
+							VWFscGhhVGJsdWVVZ3Jl
+							ZW6ACiIAAAAAIj+AAAAi
+							AAAAACIAAAAA0jIzNDVa
+							JGNsYXNzbmFtZVgkY2xh
+							c3Nlc1hNTkNDb2xvcqI2
+							N1hNTkNDb2xvclhOU09i
+							amVjdNIyMzk6XxATTU5B
+							U0ZvcmVncm91bmRDb2xv
+							cqI7N18QE01OQVNGb3Jl
+							Z3JvdW5kQ29sb3LSMjM9
+							Pl8QE05TTXV0YWJsZURp
+							Y3Rpb25hcnmjPT83XE5T
+							RGljdGlvbmFyedMYEQtB
+							RB+iGhuABYAGokVGgA6A
+							D4AMVnswLCAyfd8QD0pL
+							TE1OC09QUVJTVFVWV1hZ
+							WltcXV5fYGFiY2RlZl8Q
+							EW1heGltdW1MaW5lSGVp
+							Z2h0WHRhYlN0b3BzXxAQ
+							cGFyYWdyYXBoU3BhY2lu
+							Z1poZWFkSW5kZW50XWxp
+							bmVCcmVha01vZGVbbGlu
+							ZVNwYWNpbmdZYWxpZ25t
+							ZW50WnRhaWxJbmRlbnRf
+							EBFtaW5pbXVtTGluZUhl
+							aWdodF8QFnBhcmFncmFw
+							aFNwYWNpbmdCZWZvcmVf
+							EBJkZWZhdWx0VGFiSW50
+							ZXJ2YWxfEBJmaXJzdExp
+							bmVIZWFkSWRlbnRfEBRi
+							YXNlV3JpdGluZ0RpcmVj
+							dGlvbl8QEmxpbmVIZWln
+							aHRNdWx0aXBsZSIAAAAA
+							gBAiAAAAACIAAAAAgBKA
+							IiIAAAAAgCAiAAAAACIA
+							AAAAIgAAAAAiAAAAACIA
+							AAAAgCEiAAAAANIRC2gW
+							rGlqa2xtbm9wcXJzdIAR
+							gBSAFYAWgBeAGIAZgBqA
+							G4AcgB2AHoAf1FB3eAtc
+							ent8V29wdGlvbnNYbG9j
+							YXRpb26AEoAAIkHgAACA
+							ExAA0jIzf4BbTU5BU1Rl
+							eHRUYWKigTdbTU5BU1Rl
+							eHRUYWLUUHd4C1x6hXyA
+							EoAAIkJgAACAE9RQd3gL
+							XHqKfIASgAAiQqgAAIAT
+							1FB3eAtceo98gBKAACJC
+							4AAAgBPUUHd4C1x6lHyA
+							EoAAIkMMAACAE9RQd3gL
+							XHqZfIASgAAiQygAAIAT
+							1FB3eAtcep58gBKAACJD
+							RAAAgBPUUHd4C1x6o3yA
+							EoAAIkNgAACAE9RQd3gL
+							XHqofIASgAAiQ3wAAIAT
+							1FB3eAtceq18gBKAACJD
+							jAAAgBPUUHd4C1x6snyA
+							EoAAIkOaAACAE9RQd3gL
+							XHq3fIASgAAiQ6gAAIAT
+							0jIzurtXTlNBcnJheaK6
+							NxAEFAAAAAAAAAAA////
+							///////SMjO/wF8QE01O
+							QVNQYXJhZ3JhcGh5U3R5
+							bGWiwTdfEBNNTkFTUGFy
+							YWdyYXBoeVN0eWxl0xgR
+							C8PGH6IaG4AFgAaix8iA
+							JIAlgAxWezAsIDJ91szN
+							zs/QC9HS09TV1lRzaXpl
+							WGZvbnROYW1lWWV4cGFu
+							c2lvbltvYmxpcXVlbmVz
+							c18QEmJhc2VsaW5lQWRq
+							dXN0bWVudIAngCaAKoAp
+							gCiAK18QD1NUSGVpdGlT
+							Qy1MaWdodCJBQAAAIgAA
+							AAAiAAAAACIAAAAA0jIz
+							3d5YTU5BU0ZvbnSi3zdY
+							TU5BU0ZvbnTSMjPh4l8Q
+							E01OQ0F0dHJpYnV0ZWRT
+							dHJpbmei4zdfEBNNTkNB
+							dHRyaWJ1dGVkU3RyaW5n
+							XxAPTlNLZXllZEFyY2hp
+							dmVy0ebnXxARTU5DMGRl
+							clJvb3RPYmplY3SAAQAI
+							ABEAGgAjAC0AMgA3AGcA
+							bQB0AHsAhgCNAI8AkQCT
+							AJgAnQCoAKwArgCwALIA
+							tAC7AMMAxgDIAMoAzQDP
+							ANEA0wD6ASUBLAExATcB
+							OQE7AUYBSgFQAVUBWwFd
+							AWIBZwFsAXEBdgGBAYoB
+							kwGWAZ8BqAGtAcMBxgHc
+							AeEB9wH7AggCDwISAhQC
+							FgIZAhsCHQIfAiYCRwJb
+							AmQCdwKCApACnAKmArEC
+							xQLeAvMDCAMfAzQDOQM7
+							A0ADRQNHA0kDTgNQA1UD
+							WgNfA2QDaQNrA3ADdQOC
+							A4QDhgOIA4oDjAOOA5AD
+							kgOUA5YDmAOaA5wDpQOt
+							A7YDuAO6A78DwQPDA8gD
+							1APXA+MD7APuA/AD9QP3
+							BAAEAgQEBAkECwQUBBYE
+							GAQdBB8EKAQqBCwEMQQz
+							BDwEPgRABEUERwRQBFIE
+							VARZBFsEZARmBGgEbQRv
+							BHgEegR8BIEEgwSMBI4E
+							kASVBJcEoASiBKQEqQSr
+							BLQEtgS4BL0EvwTEBMwE
+							zwTRBOIE5wT9BQAFFgUd
+							BSAFIgUkBScFKQUrBS0F
+							NAVBBUYFTwVZBWUFegV8
+							BX4FgAWCBYQFhgWYBZ0F
+							ogWnBawFsQW6Bb0FxgXL
+							BeEF5AX6BgwGDwYjAAAA
+							AAAAAgEAAAAAAAAA6AAA
+							AAAAAAAAAAAAAAAABiU=
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'c5\'c5\'b6\'d3}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{185.89327734971198, 211.53507490273751}</string>
+						<key>nodeID</key>
+						<string>12B88AF3-43F3-43B8-94AC-88B7D749863D</string>
+						<key>strokeColor</key>
+						<string>{0.800, 1.000, 0.400, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{313.89327734971198, 211.53507490273751}</string>
+								<key>nodeID</key>
+								<string>2B4D46E9-D56D-4DFE-9741-908C5247DEC4</string>
+								<key>strokeColor</key>
+								<string>{0.800, 1.000, 0.400, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>attributedText</key>
+									<data>
+								YnBsaXN0MDDU
+								AQIDBAUG4+RY
+								JHZlcnNpb25Y
+								JG9iamVjdHNZ
+								JGFyY2hpdmVy
+								VCR0b3ASAAGG
+								oK8QLAcIDxAX
+								ICEiIycxODxA
+								SElndn1+goeM
+								kZaboKWqr7S5
+								vL3BycrW19jZ
+								2tvfVSRudWxs
+								0wkKCwwNDlZz
+								dHJpbmdaYXR0
+								cmlidXRlc1Yk
+								Y2xhc3OAAoAD
+								gCtvEBFOOmvP
+								TiprZZqkbftS
+								oABjAGgAZQBj
+								AGsAIABsAGkA
+								cwB00hELEhZa
+								TlMub2JqZWN0
+								c6MTFBWABIAN
+								gCKAH9MYEQsZ
+								HB9XTlMua2V5
+								c6IaG4AFgAai
+								HR6AB4AIgAxf
+								ECRrTU5BdHRy
+								aWJ1dGVkU3Ry
+								aW5nQXR0cmli
+								dXRlUmFuZ2VL
+								ZXlfEChrTU5B
+								dHRyaWJ1dGVk
+								U3RyaW5nQXR0
+								cmlidXRlQXR0
+								cmlidXRlS2V5
+								V3swLCAxN33S
+								JAslJlVjb2xv
+								coAJgAvVCygp
+								KissLS4vMFNy
+								ZWRVYWxwaGFU
+								Ymx1ZVVncmVl
+								boAKIgAAAAAi
+								P4AAACIAAAAA
+								IgAAAADSMjM0
+								NVokY2xhc3Nu
+								YW1lWCRjbGFz
+								c2VzWE1OQ0Nv
+								bG9yojY3WE1O
+								Q0NvbG9yWE5T
+								T2JqZWN00jIz
+								OTpfEBNNTkFT
+								Rm9yZWdyb3Vu
+								ZENvbG9yojs3
+								XxATTU5BU0Zv
+								cmVncm91bmRD
+								b2xvctIyMz0+
+								XxATTlNNdXRh
+								YmxlRGljdGlv
+								bmFyeaM9Pzdc
+								TlNEaWN0aW9u
+								YXJ50xgRC0FE
+								H6IaG4AFgAai
+								RUaADoAPgAxX
+								ezAsIDE3fd8Q
+								D0pLTE1OC09Q
+								UVJTVFVWV1hZ
+								WltcXV5cYGFi
+								Y2RlZl8QEW1h
+								eGltdW1MaW5l
+								SGVpZ2h0WHRh
+								YlN0b3BzXxAQ
+								cGFyYWdyYXBo
+								U3BhY2luZ1po
+								ZWFkSW5kZW50
+								XWxpbmVCcmVh
+								a01vZGVbbGlu
+								ZVNwYWNpbmdZ
+								YWxpZ25tZW50
+								WnRhaWxJbmRl
+								bnRfEBFtaW5p
+								bXVtTGluZUhl
+								aWdodF8QFnBh
+								cmFncmFwaFNw
+								YWNpbmdCZWZv
+								cmVfEBJkZWZh
+								dWx0VGFiSW50
+								ZXJ2YWxfEBJm
+								aXJzdExpbmVI
+								ZWFkSWRlbnRf
+								EBRiYXNlV3Jp
+								dGluZ0RpcmVj
+								dGlvbl8QEmxp
+								bmVIZWlnaHRN
+								dWx0aXBsZSIA
+								AAAAgBAiAAAA
+								ACIAAAAAgBKA
+								ISIAAAAAgBIi
+								AAAAACIAAAAA
+								IgAAAAAiAAAA
+								ACIAAAAAgCAi
+								AAAAANIRC2gW
+								rGlqa2xtbm9w
+								cXJzdIARgBSA
+								FYAWgBeAGIAZ
+								gBqAG4AcgB2A
+								HoAf1FB3eAtc
+								ent8V29wdGlv
+								bnNYbG9jYXRp
+								b26AEoAAIkHg
+								AACAExAA0jIz
+								f4BbTU5BU1Rl
+								eHRUYWKigTdb
+								TU5BU1RleHRU
+								YWLUUHd4C1x6
+								hXyAEoAAIkJg
+								AACAE9RQd3gL
+								XHqKfIASgAAi
+								QqgAAIAT1FB3
+								eAtceo98gBKA
+								ACJC4AAAgBPU
+								UHd4C1x6lHyA
+								EoAAIkMMAACA
+								E9RQd3gLXHqZ
+								fIASgAAiQygA
+								AIAT1FB3eAtc
+								ep58gBKAACJD
+								RAAAgBPUUHd4
+								C1x6o3yAEoAA
+								IkNgAACAE9RQ
+								d3gLXHqofIAS
+								gAAiQ3wAAIAT
+								1FB3eAtceq18
+								gBKAACJDjAAA
+								gBPUUHd4C1x6
+								snyAEoAAIkOa
+								AACAE9RQd3gL
+								XHq3fIASgAAi
+								Q6gAAIAT0jIz
+								urtXTlNBcnJh
+								eaK6NxQAAAAA
+								AAAAAP//////
+								////0jIzvr9f
+								EBNNTkFTUGFy
+								YWdyYXBoeVN0
+								eWxlosA3XxAT
+								TU5BU1BhcmFn
+								cmFwaHlTdHls
+								ZdMYEQvCxR+i
+								GhuABYAGosbH
+								gCOAJIAMV3sw
+								LCAxN33Wy8zN
+								zs8L0NHS09TV
+								VHNpemVYZm9u
+								dE5hbWVZZXhw
+								YW5zaW9uW29i
+								bGlxdWVuZXNz
+								XxASYmFzZWxp
+								bmVBZGp1c3Rt
+								ZW50gCaAJYAp
+								gCiAJ4AqXxAP
+								U1RIZWl0aVND
+								LUxpZ2h0IkFA
+								AAAiAAAAACIA
+								AAAAIgAAAADS
+								MjPc3VhNTkFT
+								Rm9udKLeN1hN
+								TkFTRm9udNIy
+								M+DhXxATTU5D
+								QXR0cmlidXRl
+								ZFN0cmluZ6Li
+								N18QE01OQ0F0
+								dHJpYnV0ZWRT
+								dHJpbmdfEA9O
+								U0tleWVkQXJj
+								aGl2ZXLR5eZf
+								EBFNTkMwZGVy
+								Um9vdE9iamVj
+								dIABAAgAEQAa
+								ACMALQAyADcA
+								ZgBsAHMAegCF
+								AIwAjgCQAJIA
+								twC8AMcAywDN
+								AM8A0QDTANoA
+								4gDlAOcA6QDs
+								AO4A8ADyARkB
+								RAFMAVEBVwFZ
+								AVsBZgFqAXAB
+								dQF7AX0BggGH
+								AYwBkQGWAaEB
+								qgGzAbYBvwHI
+								Ac0B4wHmAfwC
+								AQIXAhsCKAIv
+								AjICNAI2AjkC
+								OwI9Aj8CRwJo
+								AnwChQKYAqMC
+								sQK9AscC0gLm
+								Av8DFAMpA0AD
+								VQNaA1wDYQNm
+								A2gDagNvA3ED
+								dgN7A4ADhQOK
+								A4wDkQOWA6MD
+								pQOnA6kDqwOt
+								A68DsQOzA7UD
+								twO5A7sDvQPG
+								A84D1wPZA9sD
+								4APiA+QD6QP1
+								A/gEBAQNBA8E
+								EQQWBBgEIQQj
+								BCUEKgQsBDUE
+								NwQ5BD4EQARJ
+								BEsETQRSBFQE
+								XQRfBGEEZgRo
+								BHEEcwR1BHoE
+								fASFBIcEiQSO
+								BJAEmQSbBJ0E
+								ogSkBK0ErwSx
+								BLYEuATBBMME
+								xQTKBMwE1QTX
+								BNkE3gTgBOUE
+								7QTwBQEFBgUc
+								BR8FNQU8BT8F
+								QQVDBUYFSAVK
+								BUwFVAVhBWYF
+								bwV5BYUFmgWc
+								BZ4FoAWiBaQF
+								pgW4Bb0FwgXH
+								BcwF0QXaBd0F
+								5gXrBgEGBAYa
+								BiwGLwZDAAAA
+								AAAAAgEAAAAA
+								AAAA5wAAAAAA
+								AAAAAAAAAAAA
+								BkU=
+									</data>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'ce\'aa\'c3\'bf\'b8\'f6\'b2\'bd\'d6\'e8\'cc\'ed\'bc\'d3check list}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{402.80770481403374, 247.23249132371166}</string>
+								<key>nodeID</key>
+								<string>C5E19395-DD23-4398-97E7-EBF046AD97A2</string>
+								<key>strokeColor</key>
+								<string>{0.800, 1.000, 0.400, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>attributedText</key>
+									<data>
+								YnBsaXN0MDDU
+								AQIDBAUG4+RY
+								JHZlcnNpb25Y
+								JG9iamVjdHNZ
+								JGFyY2hpdmVy
+								VCR0b3ASAAGG
+								oK8QLAcIDxAX
+								ICEiIycxODxA
+								SElndn1+goeM
+								kZaboKWqr7S5
+								vL3BycrW19jZ
+								2tvfVSRudWxs
+								0wkKCwwNDlZz
+								dHJpbmdaYXR0
+								cmlidXRlc1Yk
+								Y2xhc3OAAoAD
+								gCtkZbBe+oKC
+								cLnSEQsSFlpO
+								Uy5vYmplY3Rz
+								oxMUFYAEgA2A
+								IoAf0xgRCxkc
+								H1dOUy5rZXlz
+								ohobgAWABqId
+								HoAHgAiADF8Q
+								JGtNTkF0dHJp
+								YnV0ZWRTdHJp
+								bmdBdHRyaWJ1
+								dGVSYW5nZUtl
+								eV8QKGtNTkF0
+								dHJpYnV0ZWRT
+								dHJpbmdBdHRy
+								aWJ1dGVBdHRy
+								aWJ1dGVLZXlW
+								ezAsIDR90iQL
+								JSZVY29sb3KA
+								CYAL1QsoKSor
+								LC0uLzBTcmVk
+								VWFscGhhVGJs
+								dWVVZ3JlZW6A
+								CiIAAAAAIj+A
+								AAAiAAAAACIA
+								AAAA0jIzNDVa
+								JGNsYXNzbmFt
+								ZVgkY2xhc3Nl
+								c1hNTkNDb2xv
+								cqI2N1hNTkND
+								b2xvclhOU09i
+								amVjdNIyMzk6
+								XxATTU5BU0Zv
+								cmVncm91bmRD
+								b2xvcqI7N18Q
+								E01OQVNGb3Jl
+								Z3JvdW5kQ29s
+								b3LSMjM9Pl8Q
+								E05TTXV0YWJs
+								ZURpY3Rpb25h
+								cnmjPT83XE5T
+								RGljdGlvbmFy
+								edMYEQtBRB+i
+								GhuABYAGokVG
+								gA6AD4AMVnsw
+								LCA0fd8QD0pL
+								TE1OC09QUVJT
+								VFVWV1hZWltc
+								XV5cYGFiY2Rl
+								Zl8QEW1heGlt
+								dW1MaW5lSGVp
+								Z2h0WHRhYlN0
+								b3BzXxAQcGFy
+								YWdyYXBoU3Bh
+								Y2luZ1poZWFk
+								SW5kZW50XWxp
+								bmVCcmVha01v
+								ZGVbbGluZVNw
+								YWNpbmdZYWxp
+								Z25tZW50WnRh
+								aWxJbmRlbnRf
+								EBFtaW5pbXVt
+								TGluZUhlaWdo
+								dF8QFnBhcmFn
+								cmFwaFNwYWNp
+								bmdCZWZvcmVf
+								EBJkZWZhdWx0
+								VGFiSW50ZXJ2
+								YWxfEBJmaXJz
+								dExpbmVIZWFk
+								SWRlbnRfEBRi
+								YXNlV3JpdGlu
+								Z0RpcmVjdGlv
+								bl8QEmxpbmVI
+								ZWlnaHRNdWx0
+								aXBsZSIAAAAA
+								gBAiAAAAACIA
+								AAAAgBKAISIA
+								AAAAgBIiAAAA
+								ACIAAAAAIgAA
+								AAAiAAAAACIA
+								AAAAgCAiAAAA
+								ANIRC2gWrGlq
+								a2xtbm9wcXJz
+								dIARgBSAFYAW
+								gBeAGIAZgBqA
+								G4AcgB2AHoAf
+								1FB3eAtcent8
+								V29wdGlvbnNY
+								bG9jYXRpb26A
+								EoAAIkHgAACA
+								ExAA0jIzf4Bb
+								TU5BU1RleHRU
+								YWKigTdbTU5B
+								U1RleHRUYWLU
+								UHd4C1x6hXyA
+								EoAAIkJgAACA
+								E9RQd3gLXHqK
+								fIASgAAiQqgA
+								AIAT1FB3eAtc
+								eo98gBKAACJC
+								4AAAgBPUUHd4
+								C1x6lHyAEoAA
+								IkMMAACAE9RQ
+								d3gLXHqZfIAS
+								gAAiQygAAIAT
+								1FB3eAtcep58
+								gBKAACJDRAAA
+								gBPUUHd4C1x6
+								o3yAEoAAIkNg
+								AACAE9RQd3gL
+								XHqofIASgAAi
+								Q3wAAIAT1FB3
+								eAtceq18gBKA
+								ACJDjAAAgBPU
+								UHd4C1x6snyA
+								EoAAIkOaAACA
+								E9RQd3gLXHq3
+								fIASgAAiQ6gA
+								AIAT0jIzurtX
+								TlNBcnJheaK6
+								NxQAAAAAAAAA
+								AP//////////
+								0jIzvr9fEBNN
+								TkFTUGFyYWdy
+								YXBoeVN0eWxl
+								osA3XxATTU5B
+								U1BhcmFncmFw
+								aHlTdHlsZdMY
+								EQvCxR+iGhuA
+								BYAGosbHgCOA
+								JIAMVnswLCA0
+								fdbLzM3OzwvQ
+								0dLT1NVUc2l6
+								ZVhmb250TmFt
+								ZVlleHBhbnNp
+								b25bb2JsaXF1
+								ZW5lc3NfEBJi
+								YXNlbGluZUFk
+								anVzdG1lbnSA
+								JoAlgCmAKIAn
+								gCpfEA9TVEhl
+								aXRpU0MtTGln
+								aHQiQUAAACIA
+								AAAAIgAAAAAi
+								AAAAANIyM9zd
+								WE1OQVNGb250
+								ot43WE1OQVNG
+								b2500jIz4OFf
+								EBNNTkNBdHRy
+								aWJ1dGVkU3Ry
+								aW5nouI3XxAT
+								TU5DQXR0cmli
+								dXRlZFN0cmlu
+								Z18QD05TS2V5
+								ZWRBcmNoaXZl
+								ctHl5l8QEU1O
+								QzBkZXJSb290
+								T2JqZWN0gAEA
+								CAARABoAIwAt
+								ADIANwBmAGwA
+								cwB6AIUAjACO
+								AJAAkgCbAKAA
+								qwCvALEAswC1
+								ALcAvgDGAMkA
+								ywDNANAA0gDU
+								ANYA/QEoAS8B
+								NAE6ATwBPgFJ
+								AU0BUwFYAV4B
+								YAFlAWoBbwF0
+								AXkBhAGNAZYB
+								mQGiAasBsAHG
+								AckB3wHkAfoB
+								/gILAhICFQIX
+								AhkCHAIeAiAC
+								IgIpAkoCXgJn
+								AnoChQKTAp8C
+								qQK0AsgC4QL2
+								AwsDIgM3AzwD
+								PgNDA0gDSgNM
+								A1EDUwNYA10D
+								YgNnA2wDbgNz
+								A3gDhQOHA4kD
+								iwONA48DkQOT
+								A5UDlwOZA5sD
+								nQOfA6gDsAO5
+								A7sDvQPCA8QD
+								xgPLA9cD2gPm
+								A+8D8QPzA/gD
+								+gQDBAUEBwQM
+								BA4EFwQZBBsE
+								IAQiBCsELQQv
+								BDQENgQ/BEEE
+								QwRIBEoEUwRV
+								BFcEXAReBGcE
+								aQRrBHAEcgR7
+								BH0EfwSEBIYE
+								jwSRBJMEmASa
+								BKMEpQSnBKwE
+								rgS3BLkEuwTA
+								BMIExwTPBNIE
+								4wToBP4FAQUX
+								BR4FIQUjBSUF
+								KAUqBSwFLgU1
+								BUIFRwVQBVoF
+								ZgV7BX0FfwWB
+								BYMFhQWHBZkF
+								ngWjBagFrQWy
+								BbsFvgXHBcwF
+								4gXlBfsGDQYQ
+								BiQAAAAAAAAC
+								AQAAAAAAAADn
+								AAAAAAAAAAAA
+								AAAAAAAGJg==
+									</data>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 \'d0\'c2\'bd\'a8\'bd\'da\'b5\'e3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>attributedText</key>
+							<data>
+							YnBsaXN0MDDUAQIDBAUG
+							4+RYJHZlcnNpb25YJG9i
+							amVjdHNZJGFyY2hpdmVy
+							VCR0b3ASAAGGoK8QLAcI
+							DxAXICEiIycxODxASEln
+							dn1+goeMkZaboKWqr7S5
+							vL3BycrW19jZ2tvfVSRu
+							dWxs0wkKCwwNDlZzdHJp
+							bmdaYXR0cmlidXRlc1Yk
+							Y2xhc3OAAoADgCtZQ2hl
+							Y2tMaXN00hELEhZaTlMu
+							b2JqZWN0c6MTFBWABIAN
+							gCKAH9MYEQsZHB9XTlMu
+							a2V5c6IaG4AFgAaiHR6A
+							B4AIgAxfECRrTU5BdHRy
+							aWJ1dGVkU3RyaW5nQXR0
+							cmlidXRlUmFuZ2VLZXlf
+							EChrTU5BdHRyaWJ1dGVk
+							U3RyaW5nQXR0cmlidXRl
+							QXR0cmlidXRlS2V5Vnsw
+							LCA5fdIkCyUmVWNvbG9y
+							gAmAC9ULKCkqKywtLi8w
+							U3JlZFVhbHBoYVRibHVl
+							VWdyZWVugAoiAAAAACI/
+							gAAAIgAAAAAiAAAAANIy
+							MzQ1WiRjbGFzc25hbWVY
+							JGNsYXNzZXNYTU5DQ29s
+							b3KiNjdYTU5DQ29sb3JY
+							TlNPYmplY3TSMjM5Ol8Q
+							E01OQVNGb3JlZ3JvdW5k
+							Q29sb3KiOzdfEBNNTkFT
+							Rm9yZWdyb3VuZENvbG9y
+							0jIzPT5fEBNOU011dGFi
+							bGVEaWN0aW9uYXJ5oz0/
+							N1xOU0RpY3Rpb25hcnnT
+							GBELQUQfohobgAWABqJF
+							RoAOgA+ADFZ7MCwgOX3f
+							EA9KS0xNTgtPUFFSU1RV
+							VldYWVpbXF1eXGBhYmNk
+							ZWZfEBFtYXhpbXVtTGlu
+							ZUhlaWdodFh0YWJTdG9w
+							c18QEHBhcmFncmFwaFNw
+							YWNpbmdaaGVhZEluZGVu
+							dF1saW5lQnJlYWtNb2Rl
+							W2xpbmVTcGFjaW5nWWFs
+							aWdubWVudFp0YWlsSW5k
+							ZW50XxARbWluaW11bUxp
+							bmVIZWlnaHRfEBZwYXJh
+							Z3JhcGhTcGFjaW5nQmVm
+							b3JlXxASZGVmYXVsdFRh
+							YkludGVydmFsXxASZmly
+							c3RMaW5lSGVhZElkZW50
+							XxAUYmFzZVdyaXRpbmdE
+							aXJlY3Rpb25fEBJsaW5l
+							SGVpZ2h0TXVsdGlwbGUi
+							AAAAAIAQIgAAAAAiAAAA
+							AIASgCEiAAAAAIASIgAA
+							AAAiAAAAACIAAAAAIgAA
+							AAAiAAAAAIAgIgAAAADS
+							EQtoFqxpamtsbW5vcHFy
+							c3SAEYAUgBWAFoAXgBiA
+							GYAagBuAHIAdgB6AH9RQ
+							d3gLXHp7fFdvcHRpb25z
+							WGxvY2F0aW9ugBKAACJB
+							4AAAgBMQANIyM3+AW01O
+							QVNUZXh0VGFiooE3W01O
+							QVNUZXh0VGFi1FB3eAtc
+							eoV8gBKAACJCYAAAgBPU
+							UHd4C1x6inyAEoAAIkKo
+							AACAE9RQd3gLXHqPfIAS
+							gAAiQuAAAIAT1FB3eAtc
+							epR8gBKAACJDDAAAgBPU
+							UHd4C1x6mXyAEoAAIkMo
+							AACAE9RQd3gLXHqefIAS
+							gAAiQ0QAAIAT1FB3eAtc
+							eqN8gBKAACJDYAAAgBPU
+							UHd4C1x6qHyAEoAAIkN8
+							AACAE9RQd3gLXHqtfIAS
+							gAAiQ4wAAIAT1FB3eAtc
+							erJ8gBKAACJDmgAAgBPU
+							UHd4C1x6t3yAEoAAIkOo
+							AACAE9IyM7q7V05TQXJy
+							YXmiujcUAAAAAAAAAAD/
+							/////////9IyM76/XxAT
+							TU5BU1BhcmFncmFwaHlT
+							dHlsZaLAN18QE01OQVNQ
+							YXJhZ3JhcGh5U3R5bGXT
+							GBELwsUfohobgAWABqLG
+							x4AjgCSADFZ7MCwgOX3W
+							y8zNzs8L0NHS09TVVHNp
+							emVYZm9udE5hbWVZZXhw
+							YW5zaW9uW29ibGlxdWVu
+							ZXNzXxASYmFzZWxpbmVB
+							ZGp1c3RtZW50gCaAJYAp
+							gCiAJ4AqXxAPU1RIZWl0
+							aVNDLUxpZ2h0IkFAAAAi
+							AAAAACIAAAAAIgAAAADS
+							MjPc3VhNTkFTRm9udKLe
+							N1hNTkFTRm9udNIyM+Dh
+							XxATTU5DQXR0cmlidXRl
+							ZFN0cmluZ6LiN18QE01O
+							Q0F0dHJpYnV0ZWRTdHJp
+							bmdfEA9OU0tleWVkQXJj
+							aGl2ZXLR5eZfEBFNTkMw
+							ZGVyUm9vdE9iamVjdIAB
+							AAgAEQAaACMALQAyADcA
+							ZgBsAHMAegCFAIwAjgCQ
+							AJIAnAChAKwAsACyALQA
+							tgC4AL8AxwDKAMwAzgDR
+							ANMA1QDXAP4BKQEwATUB
+							OwE9AT8BSgFOAVQBWQFf
+							AWEBZgFrAXABdQF6AYUB
+							jgGXAZoBowGsAbEBxwHK
+							AeAB5QH7Af8CDAITAhYC
+							GAIaAh0CHwIhAiMCKgJL
+							Al8CaAJ7AoYClAKgAqoC
+							tQLJAuIC9wMMAyMDOAM9
+							Az8DRANJA0sDTQNSA1QD
+							WQNeA2MDaANtA28DdAN5
+							A4YDiAOKA4wDjgOQA5ID
+							lAOWA5gDmgOcA54DoAOp
+							A7EDugO8A74DwwPFA8cD
+							zAPYA9sD5wPwA/ID9AP5
+							A/sEBAQGBAgEDQQPBBgE
+							GgQcBCEEIwQsBC4EMAQ1
+							BDcEQARCBEQESQRLBFQE
+							VgRYBF0EXwRoBGoEbARx
+							BHMEfAR+BIAEhQSHBJAE
+							kgSUBJkEmwSkBKYEqASt
+							BK8EuAS6BLwEwQTDBMgE
+							0ATTBOQE6QT/BQIFGAUf
+							BSIFJAUmBSkFKwUtBS8F
+							NgVDBUgFUQVbBWcFfAV+
+							BYAFggWEBYYFiAWaBZ8F
+							pAWpBa4FswW8Bb8FyAXN
+							BeMF5gX8Bg4GEQYlAAAA
+							AAAAAgEAAAAAAAAA5wAA
+							AAAAAAAAAAAAAAAABic=
+							</data>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf0 CheckList}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>attributedText</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUG5OVYJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oK8QLQcIDxAXICEiIycxODxASElndn1+goeM
+					kZaboKWqr7S5vL2+wsrL19jZ2tvc4FUkbnVs
+					bNMJCgsMDQ5Wc3RyaW5nWmF0dHJpYnV0ZXNW
+					JGNsYXNzgAKAA4AsZHk+TqRSn4D90hELEhZa
+					TlMub2JqZWN0c6MTFBWABIANgCOAH9MYEQsZ
+					HB9XTlMua2V5c6IaG4AFgAaiHR6AB4AIgAxf
+					ECRrTU5BdHRyaWJ1dGVkU3RyaW5nQXR0cmli
+					dXRlUmFuZ2VLZXlfEChrTU5BdHRyaWJ1dGVk
+					U3RyaW5nQXR0cmlidXRlQXR0cmlidXRlS2V5
+					VnswLCA0fdIkCyUmVWNvbG9ygAmAC9ULKCkq
+					KywtLi8wU3JlZFVhbHBoYVRibHVlVWdyZWVu
+					gAoiAAAAACI/gAAAIgAAAAAiAAAAANIyMzQ1
+					WiRjbGFzc25hbWVYJGNsYXNzZXNYTU5DQ29s
+					b3KiNjdYTU5DQ29sb3JYTlNPYmplY3TSMjM5
+					Ol8QE01OQVNGb3JlZ3JvdW5kQ29sb3KiOzdf
+					EBNNTkFTRm9yZWdyb3VuZENvbG9y0jIzPT5f
+					EBNOU011dGFibGVEaWN0aW9uYXJ5oz0/N1xO
+					U0RpY3Rpb25hcnnTGBELQUQfohobgAWABqJF
+					RoAOgA+ADFZ7MCwgNH3fEA9KS0xNTgtPUFFS
+					U1RVVldYWVpbXF1eX2BhYmNkZWZfEBFtYXhp
+					bXVtTGluZUhlaWdodFh0YWJTdG9wc18QEHBh
+					cmFncmFwaFNwYWNpbmdaaGVhZEluZGVudF1s
+					aW5lQnJlYWtNb2RlW2xpbmVTcGFjaW5nWWFs
+					aWdubWVudFp0YWlsSW5kZW50XxARbWluaW11
+					bUxpbmVIZWlnaHRfEBZwYXJhZ3JhcGhTcGFj
+					aW5nQmVmb3JlXxASZGVmYXVsdFRhYkludGVy
+					dmFsXxASZmlyc3RMaW5lSGVhZElkZW50XxAU
+					YmFzZVdyaXRpbmdEaXJlY3Rpb25fEBJsaW5l
+					SGVpZ2h0TXVsdGlwbGUiAAAAAIAQIgAAAAAi
+					AAAAAIASgCIiAAAAAIAgIgAAAAAiAAAAACIA
+					AAAAIgAAAAAiAAAAAIAhIgAAAADSEQtoFqxp
+					amtsbW5vcHFyc3SAEYAUgBWAFoAXgBiAGYAa
+					gBuAHIAdgB6AH9RQd3gLXHp7fFdvcHRpb25z
+					WGxvY2F0aW9ugBKAACJB4AAAgBMQANIyM3+A
+					W01OQVNUZXh0VGFiooE3W01OQVNUZXh0VGFi
+					1FB3eAtceoV8gBKAACJCYAAAgBPUUHd4C1x6
+					inyAEoAAIkKoAACAE9RQd3gLXHqPfIASgAAi
+					QuAAAIAT1FB3eAtcepR8gBKAACJDDAAAgBPU
+					UHd4C1x6mXyAEoAAIkMoAACAE9RQd3gLXHqe
+					fIASgAAiQ0QAAIAT1FB3eAtceqN8gBKAACJD
+					YAAAgBPUUHd4C1x6qHyAEoAAIkN8AACAE9RQ
+					d3gLXHqtfIASgAAiQ4wAAIAT1FB3eAtcerJ8
+					gBKAACJDmgAAgBPUUHd4C1x6t3yAEoAAIkOo
+					AACAE9IyM7q7V05TQXJyYXmiujcQBBQAAAAA
+					AAAAAP//////////0jIzv8BfEBNNTkFTUGFy
+					YWdyYXBoeVN0eWxlosE3XxATTU5BU1BhcmFn
+					cmFwaHlTdHlsZdMYEQvDxh+iGhuABYAGosfI
+					gCSAJYAMVnswLCA0fdbMzc7P0AvR0tPU1dZU
+					c2l6ZVhmb250TmFtZVlleHBhbnNpb25bb2Js
+					aXF1ZW5lc3NfEBJiYXNlbGluZUFkanVzdG1l
+					bnSAJ4AmgCqAKYAogCtfEA9TVEhlaXRpU0Mt
+					TGlnaHQiQVAAACIAAAAAIgAAAAAiAAAAANIy
+					M93eWE1OQVNGb250ot83WE1OQVNGb2500jIz
+					4eJfEBNNTkNBdHRyaWJ1dGVkU3RyaW5nouM3
+					XxATTU5DQXR0cmlidXRlZFN0cmluZ18QD05T
+					S2V5ZWRBcmNoaXZlctHm518QEU1OQzBkZXJS
+					b290T2JqZWN0gAEACAARABoAIwAtADIANwBn
+					AG0AdAB7AIYAjQCPAJEAkwCcAKEArACwALIA
+					tAC2ALgAvwDHAMoAzADOANEA0wDVANcA/gEp
+					ATABNQE7AT0BPwFKAU4BVAFZAV8BYQFmAWsB
+					cAF1AXoBhQGOAZcBmgGjAawBsQHHAcoB4AHl
+					AfsB/wIMAhMCFgIYAhoCHQIfAiECIwIqAksC
+					XwJoAnsChgKUAqACqgK1AskC4gL3AwwDIwM4
+					Az0DPwNEA0kDSwNNA1IDVANZA14DYwNoA20D
+					bwN0A3kDhgOIA4oDjAOOA5ADkgOUA5YDmAOa
+					A5wDngOgA6kDsQO6A7wDvgPDA8UDxwPMA9gD
+					2wPnA/AD8gP0A/kD+wQEBAYECAQNBA8EGAQa
+					BBwEIQQjBCwELgQwBDUENwRABEIERARJBEsE
+					VARWBFgEXQRfBGgEagRsBHEEcwR8BH4EgASF
+					BIcEkASSBJQEmQSbBKQEpgSoBK0ErwS4BLoE
+					vATBBMMEyATQBNME1QTmBOsFAQUEBRoFIQUk
+					BSYFKAUrBS0FLwUxBTgFRQVKBVMFXQVpBX4F
+					gAWCBYQFhgWIBYoFnAWhBaYFqwWwBbUFvgXB
+					BcoFzwXlBegF/gYQBhMGJwAAAAAAAAIBAAAA
+					AAAAAOgAAAAAAAAAAAAAAAAAAAYp
+					</data>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf0 \'c9\'e7\'bd\'bb\'b9\'a6\'c4\'dc}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-257.69026703584996, 210.07121800642972}</string>
+				<key>nodeID</key>
+				<string>85121044-381E-4D5F-9F50-D18DDDE3FA84</string>
+				<key>strokeColor</key>
+				<string>{0.500, 0.500, 0.500, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>attributedText</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUG5OVYJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oK8QLQcIDxAXICEiIycxODxASElndn1+goeM
+					kZaboKWqr7S5vL2+wsrL19jZ2tvc4FUkbnVs
+					bNMJCgsMDQ5Wc3RyaW5nWmF0dHJpYnV0ZXNW
+					JGNsYXNzgAKAA4AsXEZ1cnRoZXIgUGxhbtIR
+					CxIWWk5TLm9iamVjdHOjExQVgASADYAjgB/T
+					GBELGRwfV05TLmtleXOiGhuABYAGoh0egAeA
+					CIAMXxAka01OQXR0cmlidXRlZFN0cmluZ0F0
+					dHJpYnV0ZVJhbmdlS2V5XxAoa01OQXR0cmli
+					dXRlZFN0cmluZ0F0dHJpYnV0ZUF0dHJpYnV0
+					ZUtleVd7MCwgMTJ90iQLJSZVY29sb3KACYAL
+					1QsoKSorLC0uLzBTcmVkVWFscGhhVGJsdWVV
+					Z3JlZW6ACiIAAAAAIj+AAAAiAAAAACIAAAAA
+					0jIzNDVaJGNsYXNzbmFtZVgkY2xhc3Nlc1hN
+					TkNDb2xvcqI2N1hNTkNDb2xvclhOU09iamVj
+					dNIyMzk6XxATTU5BU0ZvcmVncm91bmRDb2xv
+					cqI7N18QE01OQVNGb3JlZ3JvdW5kQ29sb3LS
+					MjM9Pl8QE05TTXV0YWJsZURpY3Rpb25hcnmj
+					PT83XE5TRGljdGlvbmFyedMYEQtBRB+iGhuA
+					BYAGokVGgA6AD4AMV3swLCAxMn3fEA9KS0xN
+					TgtPUFFSU1RVVldYWVpbXF1eX2BhYmNkZWZf
+					EBFtYXhpbXVtTGluZUhlaWdodFh0YWJTdG9w
+					c18QEHBhcmFncmFwaFNwYWNpbmdaaGVhZElu
+					ZGVudF1saW5lQnJlYWtNb2RlW2xpbmVTcGFj
+					aW5nWWFsaWdubWVudFp0YWlsSW5kZW50XxAR
+					bWluaW11bUxpbmVIZWlnaHRfEBZwYXJhZ3Jh
+					cGhTcGFjaW5nQmVmb3JlXxASZGVmYXVsdFRh
+					YkludGVydmFsXxASZmlyc3RMaW5lSGVhZElk
+					ZW50XxAUYmFzZVdyaXRpbmdEaXJlY3Rpb25f
+					EBJsaW5lSGVpZ2h0TXVsdGlwbGUiAAAAAIAQ
+					IgAAAAAiAAAAAIASgCIiAAAAAIAgIgAAAAAi
+					AAAAACIAAAAAIgAAAAAiAAAAAIAhIgAAAADS
+					EQtoFqxpamtsbW5vcHFyc3SAEYAUgBWAFoAX
+					gBiAGYAagBuAHIAdgB6AH9RQd3gLXHp7fFdv
+					cHRpb25zWGxvY2F0aW9ugBKAACJB4AAAgBMQ
+					ANIyM3+AW01OQVNUZXh0VGFiooE3W01OQVNU
+					ZXh0VGFi1FB3eAtceoV8gBKAACJCYAAAgBPU
+					UHd4C1x6inyAEoAAIkKoAACAE9RQd3gLXHqP
+					fIASgAAiQuAAAIAT1FB3eAtcepR8gBKAACJD
+					DAAAgBPUUHd4C1x6mXyAEoAAIkMoAACAE9RQ
+					d3gLXHqefIASgAAiQ0QAAIAT1FB3eAtceqN8
+					gBKAACJDYAAAgBPUUHd4C1x6qHyAEoAAIkN8
+					AACAE9RQd3gLXHqtfIASgAAiQ4wAAIAT1FB3
+					eAtcerJ8gBKAACJDmgAAgBPUUHd4C1x6t3yA
+					EoAAIkOoAACAE9IyM7q7V05TQXJyYXmiujcQ
+					BBQAAAAAAAAAAP//////////0jIzv8BfEBNN
+					TkFTUGFyYWdyYXBoeVN0eWxlosE3XxATTU5B
+					U1BhcmFncmFwaHlTdHlsZdMYEQvDxh+iGhuA
+					BYAGosfIgCSAJYAMV3swLCAxMn3WzM3Oz9AL
+					0dLT1NXWVHNpemVYZm9udE5hbWVZZXhwYW5z
+					aW9uW29ibGlxdWVuZXNzXxASYmFzZWxpbmVB
+					ZGp1c3RtZW50gCeAJoAqgCmAKIArXxAPU1RI
+					ZWl0aVNDLUxpZ2h0IkFQAAAiAAAAACIAAAAA
+					IgAAAADSMjPd3lhNTkFTRm9udKLfN1hNTkFT
+					Rm9udNIyM+HiXxATTU5DQXR0cmlidXRlZFN0
+					cmluZ6LjN18QE01OQ0F0dHJpYnV0ZWRTdHJp
+					bmdfEA9OU0tleWVkQXJjaGl2ZXLR5udfEBFN
+					TkMwZGVyUm9vdE9iamVjdIABAAgAEQAaACMA
+					LQAyADcAZwBtAHQAewCGAI0AjwCRAJMAoACl
+					ALAAtAC2ALgAugC8AMMAywDOANAA0gDVANcA
+					2QDbAQIBLQE1AToBQAFCAUQBTwFTAVkBXgFk
+					AWYBawFwAXUBegF/AYoBkwGcAZ8BqAGxAbYB
+					zAHPAeUB6gIAAgQCEQIYAhsCHQIfAiICJAIm
+					AigCMAJRAmUCbgKBAowCmgKmArACuwLPAugC
+					/QMSAykDPgNDA0UDSgNPA1EDUwNYA1oDXwNk
+					A2kDbgNzA3UDegN/A4wDjgOQA5IDlAOWA5gD
+					mgOcA54DoAOiA6QDpgOvA7cDwAPCA8QDyQPL
+					A80D0gPeA+ED7QP2A/gD+gP/BAEECgQMBA4E
+					EwQVBB4EIAQiBCcEKQQyBDQENgQ7BD0ERgRI
+					BEoETwRRBFoEXAReBGMEZQRuBHAEcgR3BHkE
+					ggSEBIYEiwSNBJYEmASaBJ8EoQSqBKwErgSz
+					BLUEvgTABMIExwTJBM4E1gTZBNsE7ATxBQcF
+					CgUgBScFKgUsBS4FMQUzBTUFNwU/BUwFUQVa
+					BWQFcAWFBYcFiQWLBY0FjwWRBaMFqAWtBbIF
+					twW8BcUFyAXRBdYF7AXvBgUGFwYaBi4AAAAA
+					AAACAQAAAAAAAADoAAAAAAAAAAAAAAAAAAAG
+					MA==
+					</data>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf0 Further Plan}</string>
 				</dict>
 			</dict>
 		</array>
