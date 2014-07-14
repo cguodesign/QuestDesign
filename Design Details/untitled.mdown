@@ -24,3 +24,23 @@ v1.0 2014-07-12 BY:CHONG GUO
 - 自动完成 -- 其中地图自动完成的部分可供参考 (http://design.1sters.com/material_design/components/text-fields.html) 
 
 - 搜索框设计 (http://design.1sters.com/material_design/patterns/search.html)
+
+#### 可能被challenge的问题
+
+- 如何使用户重复使用：
+
+- 如何获取内容：奖励机制，百度经验。
+
+- 如何盈利：商户资源（展会、旅行、节日展出等）
+
+#### Future Functions
+
+- 智能规划：
+
+#### USER CASE
+
+- 北京卤煮地图
+
+- 留学户口存放 | 会计如果委托会计公司代理，审计流程有可能会很复杂。
+
+- 上海国际电影节/各种展会
