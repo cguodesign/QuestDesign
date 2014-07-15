@@ -1,0 +1,170 @@
+{
+	"page1": null,
+	"page2":{
+		"Trip":{
+		"key" : "birthCertification",
+		"id": 2014070001,
+		"name_Chinese": "北京卤煮地图",
+		"name_English": "Beijing Luzhu Map for Dummies",
+		"created_time": "2012/11/07",
+		"revised_time": "2014/07/07",
+		"user_starred" : false,
+		"creator_uid": "0001",
+		"creator_id": "ChesterGuo",
+		"creator_image": "default_user_image", // a boolean
+		"trip_description" : "2014版最新北京卤煮地图",
+		"trip_rank": 1,
+		"trip_image": "default_trip_image" // a boolean
+		"trip_event_sum": 5,		// need to be updated
+		"trip_comment_number" : 3,
+		
+	},
+	"page3":{
+		"trip_event":{
+			"event1": {
+				"event_index": 1,
+				"event_name": "最正宗：北新桥卤煮老店",
+				"event_loc": "北京市东四北大街141号",
+				"event_loc_eng" : "beixinqiao luzhu laodian,beijing",
+				"event_from_latitude" : 127.122112 // need to be searched
+				"event_form_dimention" : 121.123232 // need to be searched
+				"event_name_next" : "小肠陈德内后海店",
+				"event_loc_next": "北京市西城区德胜门内大街253号", // 下一个点的位置
+				"event_liked": true;
+				"event_liked_time" : "2014/07/12",
+				"event_time": "00:00:30:00", 	// Time format: dd:hh:mm:ss
+				"event_checklist_number": 0,
+				"event_image_number":4
+				"event_comment_number": 4,
+			}
+			"event2":{
+				"aaa"
+			},
+			"event3":{
+				"aaa"
+			},
+			"event4":{
+				"aaa"
+			},
+			"event5":{
+				"aaa"
+			}
+	},
+	"page4" :{
+		"event_image_number":4
+		"event_images":{
+					"event_image1":{
+						"event_image_index" : 1,
+						"event_image_title" : "菜单",
+						"event_image_path" : "need a path here" // need a path here
+						"event_image_liked" : 103,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+					"event_image2":{
+						"event_image_index" : 2,
+						"event_image_title" : "环境",
+						"event_image_path" : "need a path here" // need a path here
+						"event_image_liked" : 13,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+					"event_image3":{
+						"event_image_index" : 3,
+						"event_image_title" : "师傅飞刀表演",
+						"event_image_path" : "need a path here" // need a path here
+						"event_image_liked" : 222,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+					"event_image4":{
+						"event_image_index" : 4,
+						"event_image_title" : "招牌卤煮",
+						"event_image_path" : "need a path here" // need a path here
+						"event_image_liked" : 442,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+				},
+		"event_comment_number": 4,
+		"event_comments":{
+			"event_comment1": {
+				"event_comment_index" : 1,
+				"event_comment_title" : "非常正宗",
+				"event_comment_content" : "I like it!",
+				"event_comment_liked" : 14,
+				"event_comment_disliked" : 1,
+				"event_comment_voted" : 15,
+				"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+				"event_comment_uploader_uid" : "0002",
+				"event_comment_uploader_id" : "非常吃货",
+				"event_comment_uploader_date" : "2012/11/08"
+			},
+			"event_comment2":{
+				null;
+			},
+			"event_comment3":{
+				null;
+			},
+			"event_comment4":{
+				null;
+			},
+		}
+		"event_checklist_number": 0,
+		"event_checklist": null // 如果有需要演示checklist，需增加一层。
+	},
+	"page5":{
+		"trip_comments": {
+			"trip_comment1": {
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "吃货福音",
+				"trip_comment_content" : "从小在四九城长大，对卤煮感情很深，真心喜欢",
+				"trip_comment_liked" : 20,
+				"trip_comment_disliked" : 0,
+				"trip_comment_voted" : 20,
+				"trip_comment_balanced" : 20, // 顶踩平衡之后的数目
+				"trip_comment_uploader_uid" : "0003",
+				"trip_comment_uploader_id" : "东四大刘",
+				"trip_comment_uploader_date" : "2012/11/09"
+			},
+			"trip_comment2": {
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "吃货福音",
+				"trip_comment_content" : "从小在四九城长大，对卤煮感情很深，真心喜欢",
+				"trip_comment_liked" : 20,
+				"trip_comment_disliked" : 0,
+				"trip_comment_voted" : 20,
+				"trip_comment_balanced" : 20, // 顶踩平衡之后的数目
+				"trip_comment_uploader_uid" : "0003",
+				"trip_comment_uploader_id" : "东四大刘",
+				"trip_comment_uploader_date" : "2012/11/09"
+			}
+			"trip_comment3": {
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "吃货福音",
+				"trip_comment_content" : "从小在四九城长大，对卤煮感情很深，真心喜欢",
+				"trip_comment_liked" : 20,
+				"trip_comment_disliked" : 0,
+				"trip_comment_voted" : 20,
+				"trip_comment_balanced" : 20, // 顶踩平衡之后的数目
+				"trip_comment_uploader_uid" : "0003",
+				"trip_comment_uploader_id" : "东四大刘",
+				"trip_comment_uploader_date" : "2012/11/09"
+			}
+			// 这里还有2个
+		}
+	}
+}
+
