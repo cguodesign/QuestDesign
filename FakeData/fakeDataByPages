@@ -1,6 +1,6 @@
 {
 	"page1": null,
-	"page2":{
+	"page2":{ // 返回线路列表的页面
 		"Trip":{
 		"key" : "birthCertification",
 		"id": 2014070001,
@@ -19,7 +19,8 @@
 		"trip_comment_number" : 3,
 		
 	},
-	"page3":{
+	"page3":{ // 线路所有节点的页面
+		"trip_event_sum": 5,		// need to be updated
 		"trip_event":{
 			"event1": {
 				"event_index": 1,
@@ -50,7 +51,7 @@
 				"aaa"
 			}
 	},
-	"page4" :{
+	"page4" :{ // 节点详情页面
 		"event_image_number":4
 		"event_images":{
 					"event_image1":{
@@ -125,7 +126,7 @@
 		"event_checklist_number": 0,
 		"event_checklist": null // 如果有需要演示checklist，需增加一层。
 	},
-	"page5":{
+	"page5":{ // 线路详情的页面
 		"trip_comments": {
 			"trip_comment1": {
 				"trip_comment_index" : 1,
@@ -165,6 +166,39 @@
 			}
 			// 这里还有2个
 		}
+	},
+	"page6" :{ // 分步骤浏览所有节点的页面
+		"trip_event_sum": 5,		// need to be updated
+		"trip_event":{
+			"event1": {
+				"event_index": 1,
+				"event_name": "最正宗：北新桥卤煮老店",
+				"event_loc": "北京市东四北大街141号",
+				"event_loc_eng" : "beixinqiao luzhu laodian,beijing",
+				"event_from_latitude" : 127.122112 // need to be searched
+				"event_form_dimention" : 121.123232 // need to be searched
+				"event_name_next" : "小肠陈德内后海店",
+				"event_loc_next": "北京市西城区德胜门内大街253号", // 下一个点的位置
+				"event_liked": true;
+				"event_liked_time" : "2014/07/12",
+				"event_time": "00:00:30:00", 	// Time format: dd:hh:mm:ss
+				"event_checklist_number": 0,
+				"event_image_number":4
+				"event_comment_number": 4,
+			}
+			"event2":{
+				"aaa"
+			},
+			"event3":{
+				"aaa"
+			},
+			"event4":{
+				"aaa"
+			},
+			"event5":{
+				"aaa"
+			}
+			
 	}
 }
 

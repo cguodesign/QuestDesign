@@ -9,33 +9,33 @@
 		"user_starred" : false,
 		"creator_uid": "0001",
 		"creator_id": "ChesterGuo",
-		"creator_image": "default_user_image.png", // a boolean
-		"trip_time": "04:20:00", // HH/MM/SS 线路总计所需时间
+		"creator_image": "default_user_image.png", 
+		"trip_time": "04:20:00",
 		"trip_description" : "2014版最新北京卤煮地图",
 		"trip_rank": 1,
-		"trip_image": "default_trip_image.png" // a boolean
-		"trip_event_sum": 5,		// need to be updated
-		"trip_event":{
-			[{
+		"trip_image": "default_trip_image.png",
+		"trip_event_sum": 5,
+		"trip_event":[
+			{
 				"event_index": 1,
 				"event_name": "最正宗：北新桥卤煮老店",
 				"event_loc": "北京市东四北大街141号",
 				"event_loc_eng" : "beixinqiao luzhu laodian,beijing",
-				"event_from_latitude" : 39.943536 // need to be searched
-				"event_form_dimention" : 116.423243 // need to be searched
+				"event_from_latitude" : 39.943536,
+				"event_form_dimention" : 116.423243,
 				"event_name_next" : "小肠陈德内后海店",
-				"event_loc_next": "北京市西城区德胜门内大街253号", // 下一个点的位置
-				"event_liked": true;
+				"event_loc_next": "北京市西城区德胜门内大街253号",
+				"event_liked": true,
 				"event_liked_time" : "2014/07/12",
-				"event_time": "00:30:00", 	// Time format: hh:mm:ss
+				"event_time": "00:30:00", 	
 				"event_checklist_number": 0,
-				"event_checklist": null // 如果有需要演示checklist，需增加一层。
+				"event_checklist": null,
 				"event_image_number":4,
 				"event_images":[
 					{
 						"event_image_index" : 1,
 						"event_image_title" : "菜单",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 103,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -45,7 +45,7 @@
 					},{
 						"event_image_index" : 2,
 						"event_image_title" : "环境",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 13,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -55,7 +55,7 @@
 					},{
 						"event_image_index" : 3,
 						"event_image_title" : "师傅飞刀表演",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 222,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -65,7 +65,7 @@
 					},{
 						"event_image_index" : 4,
 						"event_image_title" : "招牌卤煮",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 442,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -83,7 +83,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13, 
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -95,7 +95,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -107,7 +107,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -119,7 +119,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13, 
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -131,21 +131,21 @@
 				"event_name": "小肠陈德内后海店",
 				"event_loc": "北京市西城区德胜门内大街253号",
 				"event_loc_eng" : "xiaochangchen houhai",
-				"event_from_latitude" : 39.95234 // need to be searched
-				"event_form_dimention" : 116.388716 // need to be searched
+				"event_from_latitude" : 39.95234,
+				"event_form_dimention" : 116.388716,
 				"event_name_next" : "黄寺卤煮",
-				"event_loc_next": "北京市西城区黄寺大街西口26号南100米", // 下一个点的位置
-				"event_liked": true;
+				"event_loc_next": "北京市西城区黄寺大街西口26号南100米", 
+				"event_liked": true,
 				"event_liked_time" : "2014/07/12",
-				"event_time": "00:30:00", 	// Time format: hh:mm:ss
+				"event_time": "00:30:00",
 				"event_checklist_number": 0,
-				"event_checklist": null // 如果有需要演示checklist，需增加一层。
+				"event_checklist": null,
 				"event_image_number":4,
 				"event_images":[
 					{
 						"event_image_index" : 1,
 						"event_image_title" : "菜单",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 103,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -155,7 +155,7 @@
 					},{
 						"event_image_index" : 2,
 						"event_image_title" : "环境",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 13,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -165,7 +165,7 @@
 					},{
 						"event_image_index" : 3,
 						"event_image_title" : "师傅飞刀表演",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here" ,
 						"event_image_liked" : 222,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -175,7 +175,7 @@
 					},{
 						"event_image_index" : 4,
 						"event_image_title" : "招牌卤煮",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 442,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -193,7 +193,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13, 
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -205,7 +205,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -217,7 +217,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -229,7 +229,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -241,21 +241,21 @@
 				"event_name": "黄寺卤煮",
 				"event_loc": "北京市西城区黄寺大街西口26号南100米",
 				"event_loc_eng" : "beixinqiao luzhu laodian,beijing",
-				"event_from_latitude" : 39.970774 // need to be searched
-				"event_form_dimention" : 116.392869 // need to be searched
+				"event_from_latitude" : 39.970774,
+				"event_form_dimention" : 116.392869,
 				"event_name_next" : "合义斋卤煮",
-				"event_loc_next": "北京市朝阳区和平里西街21号-5天丰利市场6F", // 下一个点的位置
-				"event_liked": true;
+				"event_loc_next": "北京市朝阳区和平里西街21号-5天丰利市场6F", 
+				"event_liked": true,
 				"event_liked_time" : "2014/07/12",
-				"event_time": "00:30:00", 	// Time format: hh:mm:ss
+				"event_time": "00:30:00", 	
 				"event_checklist_number": 0,
-				"event_checklist": null // 如果有需要演示checklist，需增加一层。
+				"event_checklist": null,
 				"event_image_number":4,
 				"event_images":[
 					{
 						"event_image_index" : 1,
 						"event_image_title" : "菜单",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 103,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -265,7 +265,7 @@
 					},{
 						"event_image_index" : 2,
 						"event_image_title" : "环境",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 13,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -275,7 +275,7 @@
 					},{
 						"event_image_index" : 3,
 						"event_image_title" : "师傅飞刀表演",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 222,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -285,7 +285,7 @@
 					},{
 						"event_image_index" : 4,
 						"event_image_title" : "招牌卤煮",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 442,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -303,7 +303,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -315,7 +315,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -327,7 +327,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -339,7 +339,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13, 
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -351,21 +351,21 @@
 				"event_name": "合义斋卤煮",
 				"event_loc": "北京市朝阳区和平里西街21号-5天丰利市场6F",
 				"event_loc_eng" : "beixinqiao luzhu laodian,beijing",
-				"event_from_latitude" : 39.96924 // need to be searched
-				"event_form_dimention" : 116.424432 // need to be searched
+				"event_from_latitude" : 39.96924,
+				"event_form_dimention" : 116.424432,
 				"event_name_next" : "小街卤煮",
-				"event_loc_next": "北京市东城区朝阳门南小街233号", // 下一个点的位置
-				"event_liked": true;
+				"event_loc_next": "北京市东城区朝阳门南小街233号",
+				"event_liked": true,
 				"event_liked_time" : "2014/07/12",
-				"event_time": "00:00:30:00", 	// Time format: dd:hh:mm:ss
+				"event_time": "00:00:30:00", 
 				"event_checklist_number": 0,
-				"event_checklist": null // 如果有需要演示checklist，需增加一层。
+				"event_checklist": null,
 				"event_image_number":4,
 				"event_images":[
 					{
 						"event_image_index" : 1,
 						"event_image_title" : "菜单",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 103,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -375,7 +375,7 @@
 					},{
 						"event_image_index" : 2,
 						"event_image_title" : "环境",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 13,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -385,7 +385,7 @@
 					},{
 						"event_image_index" : 3,
 						"event_image_title" : "师傅飞刀表演",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 222,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -395,7 +395,7 @@
 					},{
 						"event_image_index" : 4,
 						"event_image_title" : "招牌卤煮",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 442,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -413,7 +413,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -425,7 +425,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -437,7 +437,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13, 
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -449,7 +449,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -462,21 +462,21 @@
 				"event_name": "小街卤煮",
 				"event_loc": "北京市东城区朝阳门南小街233号",
 				"event_loc_eng" : "beixinqiao luzhu laodian,beijing",
-				"event_from_latitude" : 39.92358 // need to be searched
-				"event_form_dimention" : 116.432825 // need to be searched
+				"event_from_latitude" : 39.92358 ,
+				"event_form_dimention" : 116.432825 ,
 				"event_name_next" : null,
-				"event_loc_next": null, // 下一个点的位置
-				"event_liked": true;
+				"event_loc_next": null,
+				"event_liked": true,
 				"event_liked_time" : "2014/07/12",
-				"event_time": "00:00:30:00", 	// Time format: dd:hh:mm:ss
+				"event_time": "00:00:30:00", 	
 				"event_checklist_number": 0,
-				"event_checklist": null // 如果有需要演示checklist，需增加一层。
+				"event_checklist": null,
 				"event_image_number":4,
 				"event_images":[
 					{
 						"event_image_index" : 1,
 						"event_image_title" : "菜单",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 103,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -486,7 +486,7 @@
 					},{
 						"event_image_index" : 2,
 						"event_image_title" : "环境",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 13,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -496,7 +496,7 @@
 					},{
 						"event_image_index" : 3,
 						"event_image_title" : "师傅飞刀表演",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 222,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -506,7 +506,7 @@
 					},{
 						"event_image_index" : 4,
 						"event_image_title" : "招牌卤煮",
-						"event_image_path" : "need a path here" // need a path here
+						"event_image_path" : "need a path here",
 						"event_image_liked" : 442,
 						"event_image_width"	: 500,
 						"event_image_height" : 500,
@@ -524,7 +524,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13, 
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -536,7 +536,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13, 
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -548,7 +548,7 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13, 
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
@@ -560,13 +560,13 @@
 						"event_comment_liked" : 14,
 						"event_comment_disliked" : 1,
 						"event_comment_voted" : 15,
-						"event_comment_balanced" : 13, // 顶踩平衡之后的数目
+						"event_comment_balanced" : 13,
 						"event_comment_uploader_uid" : "0002",
 						"event_comment_uploader_id" : "非常吃货",
 						"event_comment_uploader_date" : "2012/11/08"
 					}
-				],
-			},
+				]
+			}
 		],
 		"trip_comment_number" : 3,
 		"trip_comments": [
@@ -577,7 +577,7 @@
 				"trip_comment_liked" : 20,
 				"trip_comment_disliked" : 0,
 				"trip_comment_voted" : 20,
-				"trip_comment_balanced" : 20, // 顶踩平衡之后的数目
+				"trip_comment_balanced" : 20, 
 				"trip_comment_uploader_uid" : "0003",
 				"trip_comment_uploader_id" : "东四大刘",
 				"trip_comment_uploader_date" : "2012/11/09"
@@ -589,7 +589,7 @@
 				"trip_comment_liked" : 20,
 				"trip_comment_disliked" : 0,
 				"trip_comment_voted" : 20,
-				"trip_comment_balanced" : 20, // 顶踩平衡之后的数目
+				"trip_comment_balanced" : 20,
 				"trip_comment_uploader_uid" : "0003",
 				"trip_comment_uploader_id" : "东四大刘",
 				"trip_comment_uploader_date" : "2012/11/09"
@@ -601,13 +601,11 @@
 				"trip_comment_liked" : 20,
 				"trip_comment_disliked" : 0,
 				"trip_comment_voted" : 20,
-				"trip_comment_balanced" : 20, // 顶踩平衡之后的数目
+				"trip_comment_balanced" : 20,
 				"trip_comment_uploader_uid" : "0003",
 				"trip_comment_uploader_id" : "东四大刘",
 				"trip_comment_uploader_date" : "2012/11/09"
 			}
-			
-		}
-		// 其实我也不知道还有啥 再捋捋。
+		]
 	}
 }
