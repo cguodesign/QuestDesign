@@ -1,0 +1,58 @@
+{
+	"Trip":{
+		"key" : "beijingLuzhu",
+		"id": 2014070001,
+		"name_Chinese": "北京卤煮地图",
+		"name_English": "Beijing Luzhu Map for Dummies",
+		"created_time": "2012/11/07",
+		"revised_time": "2014/07/07",
+		"user_starred" : "false",
+		"creator_uid": "0001",
+		"creator_id": "ChesterGuo",
+		"creator_image": "default_user_image.png", 
+		"trip_time": "04:20:00",
+		"trip_description" : "2014版最新北京卤煮地图",
+		"trip_rank": 1,
+		"trip_image": "default_trip_image.png",
+		"trip_event_sum": 5,
+		"trip_comment_number" : 3,
+		"trip_comments": [
+			{
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "吃货福音",
+				"trip_comment_content" : "从小在四九城长大，对卤煮感情很深，真心喜欢",
+				"trip_comment_liked" : 20,
+				"trip_comment_disliked" : 0,
+				"trip_comment_voted" : 20,
+				"trip_comment_balanced" : 20, 
+				"trip_comment_uploader_uid" : "0003",
+				"trip_comment_uploader_id" : "东四大刘",
+				"trip_comment_uploader_date" : "2012/11/09"
+			},
+			{
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "吃了几十年了",
+				"trip_comment_content" : "这种为味道只有北京人能体会，冬天来碗卤煮，比什么都幸福",
+				"trip_comment_liked" : 20,
+				"trip_comment_disliked" : 0,
+				"trip_comment_voted" : 20,
+				"trip_comment_balanced" : 20,
+				"trip_comment_uploader_uid" : "0403",
+				"trip_comment_uploader_id" : "ThankGod",
+				"trip_comment_uploader_date" : "2012/11/09"
+			},
+			{
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "我和我老婆就是吃卤煮吃出来的",
+				"trip_comment_content" : "感谢卤煮地图，让我们遇见！",
+				"trip_comment_liked" : 20,
+				"trip_comment_disliked" : 0,
+				"trip_comment_voted" : 20,
+				"trip_comment_balanced" : 20,
+				"trip_comment_uploader_uid" : "0213",
+				"trip_comment_uploader_id" : "五毛一块",
+				"trip_comment_uploader_date" : "2013/11/09"
+			}
+		]
+	}
+}

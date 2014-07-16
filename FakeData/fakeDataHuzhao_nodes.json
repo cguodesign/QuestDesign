@@ -1,0 +1,58 @@
+{
+	"Trip":{
+		"key" : "Passport",
+		"id": 2014070002,
+		"name_Chinese": "北京大学生办理因私护照攻略",
+		"name_English": "How to apply for a passport at Peking University",
+		"created_time": "2013/07/14",
+		"revised_time": "2014/04/27",
+		"user_starred" : "false",
+		"creator_uid": "0030",
+		"creator_id": "101",
+		"creator_image": "default_user_image.png", 
+		"trip_time": "24:00:00",
+		"trip_description" : "北京大学办理因私护照流程，其他高校学生也可参考",
+		"trip_rank": 1,
+		"trip_image": "default_trip_image.png",
+		"trip_event_sum": 2,
+		"trip_comment_number" : 3,
+		"trip_comments": [
+			{
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "不错不错",
+				"trip_comment_content" : "一站式检索啊真的是方便多了",
+				"trip_comment_liked" : 102,
+				"trip_comment_disliked" : 0,
+				"trip_comment_voted" : 102,
+				"trip_comment_balanced" : 102, 
+				"trip_comment_uploader_uid" : "0013",
+				"trip_comment_uploader_id" : "影迷甲",
+				"trip_comment_uploader_date" : "2014/03/31"
+			},
+			{
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "隔壁清华就没有",
+				"trip_comment_content" : "还是我大北大给力",
+				"trip_comment_liked" : 50,
+				"trip_comment_disliked" : 10,
+				"trip_comment_voted" : 60,
+				"trip_comment_balanced" : 40,
+				"trip_comment_uploader_uid" : "0103",
+				"trip_comment_uploader_id" : "贾宏声",
+				"trip_comment_uploader_date" : "2014/04/01"
+			},
+			{
+				"trip_comment_index" : 1,
+				"trip_comment_title" : "牛逼",
+				"trip_comment_content" : "真心方便了很多！",
+				"trip_comment_liked" : 20,
+				"trip_comment_disliked" : 10,
+				"trip_comment_voted" : 30,
+				"trip_comment_balanced" : 10,
+				"trip_comment_uploader_uid" : "0033",
+				"trip_comment_uploader_id" : "Kingsgards",
+				"trip_comment_uploader_date" : "2014/04/12"
+			}
+		]
+	}
+}
