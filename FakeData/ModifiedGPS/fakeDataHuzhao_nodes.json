@@ -1,0 +1,181 @@
+{
+		"trip_event":[
+			{
+				"event_index": 1,
+				"event_name": "1.去学校户籍科借户口卡",
+				"event_loc": "北京大学行政楼配楼户籍科",
+				"event_loc_eng" : "The administration building of Peking University",
+				"event_from_latitude" : 39.995275, 
+				"event_form_dimention" : 116.308610,
+				"event_description": "拿着辅导员开的证明去找户籍科老师，老师经常不在，一次成功的概率还是比较小的",
+				"event_name_next" : "去公安局办理护照",
+				"event_loc_next": "中关村科技园区服务中心三层",
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "00:10:00", 	
+				"event_checklist_number": 1,
+				"event_checklist": [
+					{
+						"checklist_index": 1,
+						"checklist_item" : "辅导员开具的在校证明",
+						"checklist_checked": "true"
+					}
+				], 
+				"event_image_number":1,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "北京大学行政楼",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 12,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0030",
+						"event_image_uploader_id" : "101",
+						"event_image_uploader_time" : "2013/03/14"
+					}
+				],
+				"event_comment_number": 3,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "多谢分享",
+						"event_comment_content" : "话说要碰到老师还要看运气……",
+						"event_comment_liked" : 291,
+						"event_comment_disliked" : 0,
+						"event_comment_voted" : 292,
+						"event_comment_balanced" : 290, 
+						"event_comment_uploader_uid" : "0030",
+						"event_comment_uploader_id" : "101",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "老师真的有上班吗！",
+						"event_comment_content" : "去了三次都没碰上！我运气有那么差么",
+						"event_comment_liked" : 143,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 154,
+						"event_comment_balanced" : 132,
+						"event_comment_uploader_uid" : "0004",
+						"event_comment_uploader_id" : "someone",
+						"event_comment_uploader_date" : "2014/04/14"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "一次命中",
+						"event_comment_content" : "老师还是很和蔼的",
+						"event_comment_liked" : 140,
+						"event_comment_disliked" : 2,
+						"event_comment_voted" : 150,
+						"event_comment_balanced" : 130,
+						"event_comment_uploader_uid" : "0005",
+						"event_comment_uploader_id" : "lucky",
+						"event_comment_uploader_date" : "2014/03/14"
+					}
+				]
+			},
+			{
+				"event_index": 2,
+				"event_name": "2.去公安局办理护照",
+				"event_loc": "中关村科技园区服务中心三层（海淀区阜成路67号）",
+				"event_loc_eng" : "xiaochangchen houhai",
+				"event_from_latitude" : 39.924216, 
+				"event_form_dimention" : 116.299349,
+				"event_description": "到达大厅后具体的流程在填表处都有：领号，填表，照相（发条形码），等待叫号，办理，交费（首次200，换发220，丢失420），领取护照的回执单，等待7个工作日。",
+				"event_name_next" : "null",
+				"event_loc_next": "null", 
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "01:30:00",
+				"event_checklist_number": 4,
+				"event_checklist": [
+					{
+						"checklist_index": 1,
+						"checklist_item" : "身份证原件及正反面复印件",
+						"checklist_checked": "true"
+					},
+					{
+						"checklist_index": 2,
+						"checklist_item" : "户口卡原件及复印件",
+						"checklist_checked": "true"
+					},
+					{
+						"checklist_index": 3,
+						"checklist_item" : "1张护照专用尺寸的照片(学校附近的照相馆可照)",
+						"checklist_checked": "true"
+					},
+					{
+						"checklist_index": 4,
+						"checklist_item" : "换发护照, 需要旧护照原件及首页复印件",
+						"checklist_checked": "false"
+					}
+				], 
+				"event_image_number":1,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "海淀区公安局",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 12,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0030",
+						"event_image_uploader_id" : "101",
+						"event_image_uploader_time" : "2013/03/14"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "很清楚",
+						"event_comment_content" : "多谢lz！看这个方便多了",
+						"event_comment_liked" : 291,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 292,
+						"event_comment_balanced" : 290, 
+						"event_comment_uploader_uid" : "0030",
+						"event_comment_uploader_id" : "101",
+						"event_comment_uploader_date" : "2013/08/14"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "步骤好多……",
+						"event_comment_content" : "生怕遗漏了东西，幸好有清单可供查看~",
+						"event_comment_liked" : 143,
+						"event_comment_disliked" : 3,
+						"event_comment_voted" : 154,
+						"event_comment_balanced" : 132,
+						"event_comment_uploader_uid" : "0004",
+						"event_comment_uploader_id" : "nana",
+						"event_comment_uploader_date" : "2014/04/14"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "现在可以用机器填表啦",
+						"event_comment_content" : "可以自助办理一些手续了，很方便",
+						"event_comment_liked" : 140,
+						"event_comment_disliked" : 10,
+						"event_comment_voted" : 150,
+						"event_comment_balanced" : 130,
+						"event_comment_uploader_uid" : "0005",
+						"event_comment_uploader_id" : "mr.mr",
+						"event_comment_uploader_date" : "2014/07/14"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "比想象中的简单",
+						"event_comment_content" : "第一次办，没想到效率这么高，之前以为要跑好几趟那",
+						"event_comment_liked" : 100,
+						"event_comment_disliked" : 15,
+						"event_comment_voted" : 115,
+						"event_comment_balanced" : 85, 
+						"event_comment_uploader_uid" : "0002",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2014/07/15"
+					}
+				]
+			}
+		]
+	}

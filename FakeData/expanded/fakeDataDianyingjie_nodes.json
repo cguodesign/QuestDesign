@@ -1,0 +1,352 @@
+{
+		"trip_event":[
+			{
+				"event_index": 1,
+				"event_name": "1.《愤怒的公牛》",
+				"event_loc": "上海和平影都",
+				"event_loc_eng" : "He Ping Cinema",
+				"event_from_latitude" : 31.238722,
+				"event_form_dimention" : 121.48251,
+				"event_description": "在和平影都观看马丁·斯科塞斯 - 《愤怒的公牛》",
+				"event_name_next" : "大光明电影院",
+				"event_loc_next": "上海市黄浦区大光明电影院(南京西路店)",
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "02:30:00", 	
+				"event_checklist_number": 1,
+				"event_checklist": [
+					{
+						"checklist_index": 1,
+						"checklist_item" : "电影票",
+						"checklist_checked": "true"
+					}
+				], 
+				"event_image_number":1,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "和平影都",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 12,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0030",
+						"event_image_uploader_id" : "101",
+						"event_image_uploader_time" : "2014/03/14"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "喜欢老马",
+						"event_comment_content" : "愤怒的公牛是是一个时代的起点，一个全新的开端",
+						"event_comment_liked" : 291,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 292,
+						"event_comment_balanced" : 290, 
+						"event_comment_uploader_uid" : "0030",
+						"event_comment_uploader_id" : "101",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "罗伯特德尼罗！",
+						"event_comment_content" : "这部的肌肉太赞了",
+						"event_comment_liked" : 143,
+						"event_comment_disliked" : 11,
+						"event_comment_voted" : 154,
+						"event_comment_balanced" : 132,
+						"event_comment_uploader_uid" : "0004",
+						"event_comment_uploader_id" : "MovieSprite",
+						"event_comment_uploader_date" : "2014/04/14"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "怀念经典",
+						"event_comment_content" : "希望多呈现这些经典电影",
+						"event_comment_liked" : 140,
+						"event_comment_disliked" : 10,
+						"event_comment_voted" : 150,
+						"event_comment_balanced" : 130,
+						"event_comment_uploader_uid" : "0005",
+						"event_comment_uploader_id" : "去年在马里昂巴德",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "推荐和平影都楼下的卡乐星",
+						"event_comment_content" : "薯条真的太好吃了!",
+						"event_comment_liked" : 100,
+						"event_comment_disliked" : 15,
+						"event_comment_voted" : 115,
+						"event_comment_balanced" : 85, 
+						"event_comment_uploader_uid" : "0002",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2014/03/15"
+					}
+				]
+			},
+			{
+				"event_index": 2,
+				"event_name": "2.《达拉斯买家俱乐部》",
+				"event_loc": "上海市黄浦区大光明电影院(南京西路店)",
+				"event_loc_eng" : "xiaochangchen houhai",
+				"event_from_latitude" : 31.239013,
+				"event_form_dimention" : 121.477773,
+				"event_description": "奥斯卡话题之作，两大男神演技火拼，大光明电影院1号厅",
+				"event_name_next" : "国泰电影院",
+				"event_loc_next": "上海市卢湾区国泰电影院", 
+				"event_liked": "false",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "02:30:00",
+				"event_checklist_number": 1,
+				"event_checklist": [
+					{
+						"checklist_index": 1,
+						"checklist_item" : "电影票",
+						"checklist_checked": "true"
+					}
+				], 
+				"event_image_number":1,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "大光明电影院",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 12,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0030",
+						"event_image_uploader_id" : "101",
+						"event_image_uploader_time" : "2014/03/14"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "马修麦康纳大器晚成",
+						"event_comment_content" : "人到中年没想到成功了",
+						"event_comment_liked" : 291,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 292,
+						"event_comment_balanced" : 290, 
+						"event_comment_uploader_uid" : "0030",
+						"event_comment_uploader_id" : "101",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "真男神！",
+						"event_comment_content" : "颓废的感觉好棒",
+						"event_comment_liked" : 143,
+						"event_comment_disliked" : 11,
+						"event_comment_voted" : 154,
+						"event_comment_balanced" : 132,
+						"event_comment_uploader_uid" : "0004",
+						"event_comment_uploader_id" : "MovieSprite",
+						"event_comment_uploader_date" : "2014/04/14"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "怀念经典",
+						"event_comment_content" : "希望多呈现这些经典电影",
+						"event_comment_liked" : 140,
+						"event_comment_disliked" : 10,
+						"event_comment_voted" : 150,
+						"event_comment_balanced" : 130,
+						"event_comment_uploader_uid" : "0005",
+						"event_comment_uploader_id" : "去年在马里昂巴德",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "推荐黄河路小吃一条街",
+						"event_comment_content" : "真的太好吃了!",
+						"event_comment_liked" : 100,
+						"event_comment_disliked" : 15,
+						"event_comment_voted" : 115,
+						"event_comment_balanced" : 85, 
+						"event_comment_uploader_uid" : "0002",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2014/03/15"
+					}
+				]
+			},
+			{
+				"event_index": 3,
+				"event_name": "3.《上海爵士》",
+				"event_loc": "国泰电影院",
+				"event_loc_eng" : "国泰电影院",
+				"event_from_latitude" : 31.22412,
+				"event_form_dimention" : 121.467798,
+				"event_description": "一部影片带你回顾上海腔调。",
+				"event_name_next" : "《阿拉伯的劳伦斯》",
+				"event_loc_next": "上海影城", 
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "02:30:00",
+				"event_checklist_number": 1,
+				"event_checklist": [
+					{
+						"checklist_index": 1,
+						"checklist_item" : "电影票",
+						"checklist_checked": "true"
+					}
+				], 
+				"event_image_number":1,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "国泰电影院",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 12,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0030",
+						"event_image_uploader_id" : "101",
+						"event_image_uploader_time" : "2014/03/14"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "腔调",
+						"event_comment_content" : "爵士算是老上海的灵魂了",
+						"event_comment_liked" : 291,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 292,
+						"event_comment_balanced" : 290, 
+						"event_comment_uploader_uid" : "0030",
+						"event_comment_uploader_id" : "101",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "罗伯特德尼罗！",
+						"event_comment_content" : "这部的肌肉太赞了",
+						"event_comment_liked" : 143,
+						"event_comment_disliked" : 11,
+						"event_comment_voted" : 154,
+						"event_comment_balanced" : 132,
+						"event_comment_uploader_uid" : "0004",
+						"event_comment_uploader_id" : "MovieSprite",
+						"event_comment_uploader_date" : "2014/04/14"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "怀念经典",
+						"event_comment_content" : "希望多呈现这些经典电影",
+						"event_comment_liked" : 140,
+						"event_comment_disliked" : 10,
+						"event_comment_voted" : 150,
+						"event_comment_balanced" : 130,
+						"event_comment_uploader_uid" : "0005",
+						"event_comment_uploader_id" : "去年在马里昂巴德",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "推荐淮海路上的白斩鸡",
+						"event_comment_content" : "真的太好吃了!",
+						"event_comment_liked" : 100,
+						"event_comment_disliked" : 15,
+						"event_comment_voted" : 115,
+						"event_comment_balanced" : 85, 
+						"event_comment_uploader_uid" : "0002",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2014/03/15"
+					}
+				]
+			},
+			{
+				"event_index": 4,
+				"event_name": "4.《阿拉伯的劳伦斯》",
+				"event_loc": "上海影城",
+				"event_loc_eng" : "Shanghai",
+				"event_from_latitude" : 31.208642,
+				"event_form_dimention" : 121.436219,
+				"event_description": "影视经典，不得不看。",
+				"event_name_next" : "null",
+				"event_loc_next": "null",
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "03:00:00",
+				"event_checklist_number": 1,
+				"event_checklist": [
+					{
+						"checklist_index": 1,
+						"checklist_item" : "电影票",
+						"checklist_checked": "true"
+					}
+				], 
+				"event_image_number":1,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "上海影城",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 12,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0030",
+						"event_image_uploader_id" : "101",
+						"event_image_uploader_time" : "2014/03/14"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "修复经典",
+						"event_comment_content" : "阿拉伯的劳伦斯在影史上的地位不用多说了吧",
+						"event_comment_liked" : 291,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 292,
+						"event_comment_balanced" : 290, 
+						"event_comment_uploader_uid" : "0009",
+						"event_comment_uploader_id" : "101",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "罗伯特德尼罗！",
+						"event_comment_content" : "这部的肌肉太赞了",
+						"event_comment_liked" : 143,
+						"event_comment_disliked" : 11,
+						"event_comment_voted" : 154,
+						"event_comment_balanced" : 132,
+						"event_comment_uploader_uid" : "0004",
+						"event_comment_uploader_id" : "MovieSprite",
+						"event_comment_uploader_date" : "2014/04/14"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "怀念经典",
+						"event_comment_content" : "希望多呈现这些经典电影",
+						"event_comment_liked" : 140,
+						"event_comment_disliked" : 10,
+						"event_comment_voted" : 150,
+						"event_comment_balanced" : 130,
+						"event_comment_uploader_uid" : "0005",
+						"event_comment_uploader_id" : "去年在马里昂巴德",
+						"event_comment_uploader_date" : "2014/03/14"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "推荐天钥桥路上的榴莲肠粉",
+						"event_comment_content" : "真的太好吃了!",
+						"event_comment_liked" : 100,
+						"event_comment_disliked" : 15,
+						"event_comment_voted" : 115,
+						"event_comment_balanced" : 85, 
+						"event_comment_uploader_uid" : "0002",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2014/03/15"
+					}
+				]
+			}
+		]
+}

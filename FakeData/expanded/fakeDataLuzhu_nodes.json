@@ -1,0 +1,560 @@
+{
+	"trip_event":[
+			{
+				"event_index": 1,
+				"event_name": "1.最正宗：北新桥卤煮老店",
+				"event_loc": "北京市东四北大街141号",
+				"event_loc_eng" : "beixinqiao luzhu laodian,beijing",
+				"event_from_latitude" : 39.943536,
+				"event_form_dimention" : 116.423243,
+				"event_description": "大名鼎鼎的老店好这口儿的北京人几乎无人不知无人不晓",
+				"event_name_next" : "小肠陈德内后海店",
+				"event_loc_next": "北京市西城区德胜门内大街253号",
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "00:30:00", 	
+				"event_checklist_number": 0,
+				"event_checklist": "null",
+				"event_image_number":4,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "菜单",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 103,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 2,
+						"event_image_title" : "环境",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 13,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 3,
+						"event_image_title" : "师傅飞刀表演",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 222,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 4,
+						"event_image_title" : "招牌卤煮",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 442,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "非常正宗",
+						"event_comment_content" : "I like it!",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0202",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "吃得畅快",
+						"event_comment_content" : "小肠很煮的很烂，火候很好",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0402",
+						"event_comment_uploader_id" : "馋猫大猫猫",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "熟悉的味道",
+						"event_comment_content" : "就是蒜多了一点",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0024",
+						"event_comment_uploader_id" : "AliceHak",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "名气很大",
+						"event_comment_content" : "排队排了一个多小时才吃到",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0052",
+						"event_comment_uploader_id" : "再见杰克",
+						"event_comment_uploader_date" : "2012/11/08"
+					}
+				]
+			},
+			{
+				"event_index": 2,
+				"event_name": "2.小肠陈德内后海店",
+				"event_loc": "北京市西城区德胜门内大街253号",
+				"event_loc_eng" : "xiaochangchen houhai",
+				"event_from_latitude" : 39.95234,
+				"event_form_dimention" : 116.388716,
+				"event_description": "吃货第二站，小肠陈！",
+				"event_name_next" : "黄寺卤煮",
+				"event_loc_next": "北京市西城区黄寺大街西口26号南100米", 
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "00:30:00",
+				"event_checklist_number": 0,
+				"event_checklist": "null",
+				"event_image_number":4,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "菜单",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 103,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 2,
+						"event_image_title" : "环境",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 13,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 3,
+						"event_image_title" : "师傅飞刀表演",
+						"event_image_path" : "need a path here" ,
+						"event_image_liked" : 222,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 4,
+						"event_image_title" : "招牌卤煮",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 442,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "非常正宗",
+						"event_comment_content" : "I like it!",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0202",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "吃得畅快",
+						"event_comment_content" : "小肠很煮的很烂，火候很好",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0402",
+						"event_comment_uploader_id" : "馋猫大猫猫",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "熟悉的味道",
+						"event_comment_content" : "就是蒜多了一点",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0024",
+						"event_comment_uploader_id" : "AliceHak",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "名气很大",
+						"event_comment_content" : "排队排了一个多小时才吃到",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0052",
+						"event_comment_uploader_id" : "再见杰克",
+						"event_comment_uploader_date" : "2012/11/08"
+					}
+				]
+			},
+			{
+				"event_index": 3,
+				"event_name": "3.黄寺卤煮",
+				"event_loc": "北京市西城区黄寺大街西口26号南100米",
+				"event_loc_eng" : "Huangsi luzhu",
+				"event_from_latitude" : 39.970774,
+				"event_form_dimention" : 116.392869,
+				"event_description": "第三站，黄寺卤煮！",
+				"event_name_next" : "合义斋卤煮",
+				"event_loc_next": "北京市朝阳区和平里西街21号-5天丰利市场6F", 
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "00:30:00", 	
+				"event_checklist_number": 0,
+				"event_checklist": "null",
+				"event_image_number":4,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "菜单",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 103,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 2,
+						"event_image_title" : "环境",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 13,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 3,
+						"event_image_title" : "师傅飞刀表演",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 222,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 4,
+						"event_image_title" : "招牌卤煮",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 442,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "非常正宗",
+						"event_comment_content" : "I like it!",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0202",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "吃得畅快",
+						"event_comment_content" : "小肠很煮的很烂，火候很好",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0402",
+						"event_comment_uploader_id" : "馋猫大猫猫",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "熟悉的味道",
+						"event_comment_content" : "就是蒜多了一点",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0024",
+						"event_comment_uploader_id" : "AliceHak",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "名气很大",
+						"event_comment_content" : "排队排了一个多小时才吃到",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0052",
+						"event_comment_uploader_id" : "再见杰克",
+						"event_comment_uploader_date" : "2012/11/08"
+					}
+				]
+			},
+			{
+				"event_index": 4,
+				"event_name": "4.合义斋卤煮",
+				"event_loc": "北京市朝阳区和平里西街21号-5天丰利市场6F",
+				"event_loc_eng" : "Heyizhai luzhu",
+				"event_from_latitude" : 39.96924,
+				"event_form_dimention" : 116.424432,
+				"event_description": "第四站，合义斋",
+				"event_name_next" : "小街卤煮",
+				"event_loc_next": "北京市东城区朝阳门南小街233号",
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "00:00:30:00", 
+				"event_checklist_number": 0,
+				"event_checklist": "null",
+				"event_image_number":4,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "菜单",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 103,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 2,
+						"event_image_title" : "环境",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 13,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 3,
+						"event_image_title" : "师傅飞刀表演",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 222,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 4,
+						"event_image_title" : "招牌卤煮",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 442,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "非常正宗",
+						"event_comment_content" : "I like it!",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0202",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "吃得畅快",
+						"event_comment_content" : "小肠很煮的很烂，火候很好",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0402",
+						"event_comment_uploader_id" : "馋猫大猫猫",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "熟悉的味道",
+						"event_comment_content" : "就是蒜多了一点",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0024",
+						"event_comment_uploader_id" : "AliceHak",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "名气很大",
+						"event_comment_content" : "排队排了一个多小时才吃到",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0052",
+						"event_comment_uploader_id" : "再见杰克",
+						"event_comment_uploader_date" : "2012/11/08"
+					}
+				]
+			},
+			{
+
+				"event_index": 5,
+				"event_name": "5.小街卤煮",
+				"event_loc": "北京市东城区朝阳门南小街233号",
+				"event_loc_eng" : "xiaojie luzhu",
+				"event_from_latitude" : 39.92358 ,
+				"event_form_dimention" : 116.432825 ,
+				"event_description": "收官！小街卤煮",
+				"event_name_next" : "null",
+				"event_loc_next": "null",
+				"event_liked": "true",
+				"event_liked_time" : "2014/07/12",
+				"event_time": "00:00:30:00", 	
+				"event_checklist_number": 0,
+				"event_checklist": "null",
+				"event_image_number":4,
+				"event_images":[
+					{
+						"event_image_index" : 1,
+						"event_image_title" : "菜单",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 103,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 2,
+						"event_image_title" : "环境",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 13,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 3,
+						"event_image_title" : "师傅飞刀表演",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 222,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					},{
+						"event_image_index" : 4,
+						"event_image_title" : "招牌卤煮",
+						"event_image_path" : "need a path here",
+						"event_image_liked" : 442,
+						"event_image_width"	: 500,
+						"event_image_height" : 500,
+						"event_image_uploader_uid" : "0001",
+						"event_image_uploader_id" : "ChesterGuo",
+						"event_image_uploader_time" : "2012/11/07"
+					}
+				],
+				"event_comment_number": 4,
+				"event_comments":[
+					{
+						"event_comment_index" : 1,
+						"event_comment_title" : "非常正宗",
+						"event_comment_content" : "I like it!",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0202",
+						"event_comment_uploader_id" : "非常吃货",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 2,
+						"event_comment_title" : "吃得畅快",
+						"event_comment_content" : "小肠很煮的很烂，火候很好",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0402",
+						"event_comment_uploader_id" : "馋猫大猫猫",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 3,
+						"event_comment_title" : "熟悉的味道",
+						"event_comment_content" : "就是蒜多了一点",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13,
+						"event_comment_uploader_uid" : "0024",
+						"event_comment_uploader_id" : "AliceHak",
+						"event_comment_uploader_date" : "2012/11/08"
+					},
+					{
+						"event_comment_index" : 4,
+						"event_comment_title" : "名气很大",
+						"event_comment_content" : "排队排了一个多小时才吃到",
+						"event_comment_liked" : 14,
+						"event_comment_disliked" : 1,
+						"event_comment_voted" : 15,
+						"event_comment_balanced" : 13, 
+						"event_comment_uploader_uid" : "0052",
+						"event_comment_uploader_id" : "再见杰克",
+						"event_comment_uploader_date" : "2012/11/08"
+					}
+				]
+			}
+	]
+}
